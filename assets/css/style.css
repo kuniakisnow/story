@@ -44,66 +44,97 @@ body {
 /* Content */
 .content { padding: 40px 0 60px; }
 
-/* Posts list */
-.post-list { list-style: none; }
+/* ===== なろう-style Post ===== */
 
-.post-list li {
-  padding: 24px 0;
-  border-bottom: 1px solid #eee;
+.narou-navi {
+  margin: 16px 0 24px;
+  padding: 12px 0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
 
-.post-list a {
-  color: #2c3e50;
+.narou-navi ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  padding: 0;
+}
+
+.narou-navi li {
+  margin: 0;
+  font-size: 16px;
+}
+
+.narou-navi a {
+  color: #3498db;
   text-decoration: none;
+  font-weight: bold;
 }
 
-.post-list a:hover { color: #3498db; }
+.narou-navi a:hover {
+  text-decoration: underline;
+}
 
-.post-list h2 { font-size: 22px; margin-bottom: 8px; }
+.narou-navi .disabled {
+  color: #ccc;
+  font-weight: normal;
+}
 
-.post-meta {
-  color: #888;
+.narou-header {
+  text-align: center;
+  margin: 32px 0;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #eee;
+}
+
+.narou-episode {
   font-size: 14px;
+  color: #888;
   margin-bottom: 8px;
 }
 
-.post-excerpt {
-  color: #555;
-  font-size: 15px;
-  line-height: 1.7;
+.narou-title {
+  font-size: 28px;
+  line-height: 1.4;
+  color: #222;
 }
 
-/* Single post */
-.post-header {
-  margin-bottom: 32px;
-  border-bottom: 2px solid #eee;
-  padding-bottom: 16px;
+.narou-date {
+  font-size: 13px;
+  color: #aaa;
+  margin-top: 8px;
 }
 
-.post-title { font-size: 28px; }
+.narou-honbun {
+  min-height: 300px;
+}
 
-.post-body h2 {
+.narou-honbun h2 {
   font-size: 22px;
   margin: 40px 0 16px;
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
 
-.post-body h3 {
+.narou-honbun h3 {
   font-size: 19px;
   margin: 32px 0 12px;
 }
 
-.post-body p { margin: 16px 0; }
+.narou-honbun p {
+  margin: 16px 0;
+  line-height: 1.9;
+}
 
-.post-body ul, .post-body ol {
+.narou-honbun ul, .narou-honbun ol {
   margin: 16px 0;
   padding-left: 24px;
 }
 
-.post-body li { margin: 8px 0; }
+.narou-honbun li { margin: 8px 0; }
 
-.post-body code {
+.narou-honbun code {
   font-family: "SF Mono", "Fira Code", monospace;
   font-size: 15px;
   background: #f0f0f0;
@@ -111,7 +142,7 @@ body {
   border-radius: 3px;
 }
 
-.post-body pre {
+.narou-honbun pre {
   background: #2d2d2d;
   color: #f8f8f2;
   padding: 16px;
@@ -122,15 +153,15 @@ body {
   margin: 16px 0;
 }
 
-.post-body pre code {
+.narou-honbun pre code {
   background: none;
   padding: 0;
   color: inherit;
 }
 
-.post-body a { color: #3498db; }
+.narou-honbun a { color: #3498db; }
 
-.post-body blockquote {
+.narou-honbun blockquote {
   border-left: 4px solid #3498db;
   padding: 12px 20px;
   margin: 16px 0;
@@ -138,18 +169,64 @@ body {
   color: #555;
 }
 
-.post-nav {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 48px;
-  padding-top: 24px;
-  border-top: 1px solid #eee;
+/* ===== なろう-style TOC ===== */
+
+.narou-toc-header {
+  text-align: center;
+  margin-bottom: 32px;
 }
 
-.post-nav a {
-  color: #3498db;
+.narou-toc-header h1 {
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.narou-toc-count {
+  font-size: 14px;
+  color: #888;
+  margin-top: 12px;
+}
+
+.narou-toc {
+  border-top: 1px solid #ddd;
+}
+
+.narou-toc ul {
+  list-style: none;
+  padding: 0;
+}
+
+.narou-toc li {
+  padding: 14px 8px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.narou-toc-ep {
+  font-size: 13px;
+  color: #888;
+  min-width: 60px;
+  flex-shrink: 0;
+}
+
+.narou-toc li a {
+  color: #2c3e50;
   text-decoration: none;
-  max-width: 45%;
+  flex: 1;
+  font-size: 16px;
+}
+
+.narou-toc li a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+.narou-toc-date {
+  font-size: 12px;
+  color: #aaa;
+  flex-shrink: 0;
 }
 
 /* Tags page */
@@ -177,6 +254,10 @@ body {
 /* Responsive */
 @media (max-width: 600px) {
   body { font-size: 16px; }
-  .post-title { font-size: 22px; }
+  .narou-title { font-size: 22px; }
+  .narou-navi ul { gap: 12px; }
+  .narou-navi li { font-size: 14px; }
+  .narou-toc li { flex-wrap: wrap; gap: 4px; }
+  .narou-toc-ep { min-width: 50px; }
   .wrapper { padding: 0 16px; }
 }
