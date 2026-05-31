@@ -1,0 +1,34 @@
+title: "Storage & Optical Tech Blog"
+tagline: "ストレージ・光伝送技術の最前線"
+description: "NVMe/PCIe/CXL/光伝送など、ストレージと光通信の最新技術情報をお届けします"
+author: "kuniakisnow"
+lang: ja
+timezone: Asia/Tokyo
+
+url: "https://kuniakisnow.github.io"
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  path: /feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: "kuniakisnow"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default

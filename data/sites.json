@@ -1,0 +1,41 @@
+{
+  "storage_sites": [
+    { "name": "ServeTheHome", "url": "https://www.servethehome.com", "type": "tech_media", "category": "storage", "priority": 1 },
+    { "name": "Blocks & Files", "url": "https://blocksandfiles.com", "type": "tech_media", "category": "storage", "priority": 2 },
+    { "name": "StorageReview", "url": "https://www.storagereview.com", "type": "tech_media", "category": "storage", "priority": 3 },
+    { "name": "Tom's Hardware", "url": "https://www.tomshardware.com", "type": "tech_media", "category": "storage", "priority": 4 },
+    { "name": "Phoronix", "url": "https://www.phoronix.com", "type": "tech_media", "category": "storage", "priority": 5 },
+    { "name": "The Next Platform", "url": "https://www.nextplatform.com", "type": "tech_media", "category": "storage", "priority": 6 },
+    { "name": "AnandTech", "url": "https://www.anandtech.com", "type": "tech_media", "category": "storage", "priority": 7 },
+    { "name": "SNIA Blog", "url": "https://www.snia.org/blog", "type": "org", "category": "storage", "priority": 8 },
+    { "name": "PCI-SIG Blog", "url": "https://pcisig.com/blog", "type": "org", "category": "storage", "priority": 9 }
+  ],
+  "optical_sites": [
+    { "name": "LightReading", "url": "https://www.lightreading.com", "type": "tech_media", "category": "optical", "priority": 1 },
+    { "name": "Fiber Optic Sensing", "url": "https://www.fiberopticsensing.org", "type": "org", "category": "optical", "priority": 2 },
+    { "name": "OFC Conference", "url": "https://www.ofcconference.org", "type": "org", "category": "optical", "priority": 3 },
+    { "name": "IEEE Photonics", "url": "https://www.photonicssociety.org", "type": "org", "category": "optical", "priority": 4 },
+    { "name": "Gazettabyte", "url": "https://www.gazettabyte.com", "type": "tech_media", "category": "optical", "priority": 5 },
+    { "name": "Cignal AI", "url": "https://www.cignal.ai", "type": "analyst", "category": "optical", "priority": 6 }
+  ],
+  "vendor_blogs": [
+    { "name": "Samsung Storage", "url": "https://semiconductor.samsung.com/storage/blog", "type": "vendor", "category": "storage", "priority": 10 },
+    { "name": "Kioxia Blog", "url": "https://www.kioxia.com/en-jp/topics.html", "type": "vendor", "category": "storage", "priority": 10 },
+    { "name": "Cisco Optical", "url": "https://blogs.cisco.com/tag/optical", "type": "vendor", "category": "optical", "priority": 10 },
+    { "name": "Ciena Blog", "url": "https://www.ciena.com/insights", "type": "vendor", "category": "optical", "priority": 10 }
+  ],
+  "keywords": {
+    "storage": [
+      "NVMe", "NVMe-of", "NVMe over TCP", "NVMe over RDMA",
+      "PCIe Gen5", "PCIe Gen6", "PCIe Gen7", "CXL", "Compute Express Link",
+      "CXL.mem", "CXL.io", "memory pooling", "memory tiering",
+      "all-flash array", "distributed storage", "ZNS", "Zoned Namespace",
+      "Storage Class Memory", "SCM", "3D NAND", "SSD controller", "FTL"
+    ],
+    "optical": [
+      "coherent optical", "DWDM", "optical transceiver", "silicon photonics",
+      "optical interconnect", "400ZR", "800G", "1.6T", "CPO", "co-packaged optics",
+      "fiber optic", "optical networking", "PON", "OTN", "WDM"
+    ]
+  }
+}
