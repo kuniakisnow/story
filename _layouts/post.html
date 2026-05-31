@@ -9,9 +9,9 @@ layout: default
 <article class="post">
   <nav class="narou-navi">
     <ul>
-      <li>{% if page.next %}<a href="{{ page.next.url }}" rel="prev">← 前へ</a>{% else %}<span class="disabled">← 前へ</span>{% endif %}</li>
+      <li>{% if page.previous %}<a href="{{ page.previous.url }}" rel="prev">← 前へ</a>{% else %}<span class="disabled">← 前へ</span>{% endif %}</li>
       <li><a href="/">目次へ</a></li>
-      <li>{% if page.previous %}<a href="{{ page.previous.url }}" rel="next">次へ →</a>{% else %}<span class="disabled">次へ →</span>{% endif %}</li>
+      <li>{% if page.next %}<a href="{{ page.next.url }}" rel="next">次へ →</a>{% else %}<span class="disabled">次へ →</span>{% endif %}</li>
     </ul>
   </nav>
 
@@ -27,9 +27,9 @@ layout: default
 
   <nav class="narou-navi">
     <ul>
-      <li>{% if page.next %}<a href="{{ page.next.url }}" rel="prev">← 前へ</a>{% else %}<span class="disabled">← 前へ</span>{% endif %}</li>
+      <li>{% if page.previous %}<a href="{{ page.previous.url }}" rel="prev">← 前へ</a>{% else %}<span class="disabled">← 前へ</span>{% endif %}</li>
       <li><a href="/">目次へ</a></li>
-      <li>{% if page.previous %}<a href="{{ page.previous.url }}" rel="next">次へ →</a>{% else %}<span class="disabled">次へ →</span>{% endif %}</li>
+      <li>{% if page.next %}<a href="{{ page.next.url }}" rel="next">次へ →</a>{% else %}<span class="disabled">次へ →</span>{% endif %}</li>
     </ul>
   </nav>
 </article>
