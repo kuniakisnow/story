@@ -6,6 +6,8 @@ lang: ja
 timezone: Asia/Tokyo
 future: true
 
+future: true
+
 url: "https://kuniakisnow.github.io"
 baseurl: ""
 permalink: /:year/:month/:day/:title/
