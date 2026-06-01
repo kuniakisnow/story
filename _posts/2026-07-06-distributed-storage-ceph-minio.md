@@ -107,7 +107,7 @@ description: "分散ストレージの代表格CephとMinIOを中心に、アー
 
 「なるほど…ところで、この前AWSの<ruby>S3 Glacier<rp>《</rp><rt>エススリーグレイシャー</rt><rp>》</rp></ruby>みたいなアーカイブ用途には使えるんですか？」
 
-『どちらもS3互換だから、ライフサイクルポリシーを組める。<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>には<ruby>Illegal<rp>《</rp><rt>バケット</rt><rp>》</rp></ruby>単位で<ruby>WORM<rp>《</rp><rt>ワーム</rt><rp>》</rp></ruby>（Write Once Read Many）も設定できる。ただしGlacier完全互換ではないから、テープ相当のコールドストレージが必要なら、別途アーカイブ用の階層を考える必要がある。』
+『どちらもS3互換だから、ライフサイクルポリシーを組める。<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>にはバケット単位で<ruby>WORM<rp>《</rp><rt>ワーム</rt><rp>》</rp></ruby>（Write Once Read Many）も設定できる。ただしGlacier完全互換ではないから、テープ相当のコールドストレージが必要なら、別途アーカイブ用の階層を考える必要がある。』
 
 「<ruby>WORM<rp>《</rp><rt>ワーム</rt><rp>》</rp></ruby>？それってコンプライアンス要件で必要なやつですよね。金融機関とかでデータを絶対に改ざんできないようにする」
 
