@@ -1,0 +1,1285 @@
+{
+  "last_run": "2026-06-01T02:49:29.858495+00:00",
+  "articles": [
+    {
+      "title": "Other Components",
+      "url": "https://www.servethehome.com/category/server-parts/other-components/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073396+00:00",
+      "score": 40,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "Top Hardware Components for TrueNAS / FreeNAS NAS Servers",
+      "url": "https://www.servethehome.com/buyers-guides/top-hardware-components-for-truenas-freenas-nas-servers/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073429+00:00",
+      "score": 40,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "Top Hardware Components for pfSense Appliances",
+      "url": "https://www.servethehome.com/buyers-guides/top-hardware-components-pfsense-appliances/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073436+00:00",
+      "score": 40,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "Top Hardware Components for napp-it and Solarish NAS Servers",
+      "url": "https://www.servethehome.com/buyers-guides/top-hardware-components-napp-omnios-nas-servers/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073442+00:00",
+      "score": 40,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "CXL™ Consortium",
+      "url": "https://www.snia.org/about/alliances/cxl",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535631+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "CXL"
+      ]
+    },
+    {
+      "title": "DMTF / NVMe Alliance",
+      "url": "https://www.snia.org/strategic-industry-alliance",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535638+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "NVMe"
+      ]
+    },
+    {
+      "title": "Optical Networking",
+      "url": "https://www.lightreading.com/network-technology/optical-networking",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001367+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "optical networking"
+      ]
+    },
+    {
+      "title": "AI is spurring an optical networking rethink",
+      "url": "https://gazettabyte.com/ai-is-spurring-an-optical-networking-rethink/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684748+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "optical networking"
+      ]
+    },
+    {
+      "title": "Optical Components",
+      "url": "https://cignal.ai/optco/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119263+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "CPO and ELSFP – 1Q26 Update",
+      "url": "https://cignal.ai/2026/04/cpo-and-elsfp-1q26-update/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119304+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "CPO"
+      ]
+    },
+    {
+      "title": "Server Motherboards",
+      "url": "https://www.servethehome.com/category/server-parts/motherboards/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073371+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Workstation Processors",
+      "url": "https://www.servethehome.com/category/workstations/workstation-processors/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073403+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Workstation Motherboards",
+      "url": "https://www.servethehome.com/category/workstations/workstation-motherboards/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073409+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Operating Systems",
+      "url": "https://www.servethehome.com/category/server-software/operating-systems/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073415+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Server Applications",
+      "url": "https://www.servethehome.com/category/server-software/server-applications/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073423+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Top Picks for Windows Server 2016 Essentials Hardware",
+      "url": "https://www.servethehome.com/buyers-guides/top-picks-windows-server-2016-essentials-hardware/",
+      "source": "ServeTheHome",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:05.073448+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Featured content",
+      "url": "https://www.anandtech.com/featured/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415519+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Latest activity",
+      "url": "https://www.anandtech.com/whats-new/latest-activity",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415540+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "alternative browser",
+      "url": "https://www.google.com/chrome/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415546+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Hardware and Technology",
+      "url": "https://www.anandtech.com/categories/hardware-and-technology.27/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415551+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Hardware and Technology",
+      "url": "https://www.anandtech.com/categories/hardware-and-technology.27/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415555+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "CPUs and Overclocking",
+      "url": "https://www.anandtech.com/forums/cpus-and-overclocking.5/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415560+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "CPUs and Overclocking",
+      "url": "https://www.anandtech.com/forums/cpus-and-overclocking.5/",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415564+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Ryzen 5000 Builders Thread",
+      "url": "https://www.anandtech.com/threads/amd-ryzen-5000-builders-thread.2585909/post-41612448",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415569+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "NewsDigiTimes report says motherboard manufacturers are in crisis.",
+      "url": "https://www.anandtech.com/threads/digitimes-report-says-motherboard-manufacturers-are-in-crisis.2634598/post-41612381",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415573+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "NewsIntel GPUs - we've given up on B770, where's Celestial already",
+      "url": "https://www.anandtech.com/threads/intel-gpus-weve-given-up-on-b770-wheres-celestial-already.2526376/post-41612397",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.415579+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Container storage",
+      "url": "https://blocksandfiles.com/tag/container-storage",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.251988+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data Management",
+      "url": "https://blocksandfiles.com/tag/data-management",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252009+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data Protection",
+      "url": "https://blocksandfiles.com/tag/data-protection",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252015+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage Management",
+      "url": "https://blocksandfiles.com/tag/storage-management",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252019+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage Networking",
+      "url": "https://blocksandfiles.com/tag/storage%20networking",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252023+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage Networking",
+      "url": "https://blocksandfiles.com/tag/storage%20networking",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252028+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mistral AI chooses VAST Data for its AI data foundationMay 29, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/05/29/mistral-ai-chooses-vast-data-for-its-ai-data-foundation/5248594",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252032+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mistral AI chooses VAST Data for its AI data foundationMay 29, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/05/29/mistral-ai-chooses-vast-data-for-its-ai-data-foundation/5248594",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252037+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell’s extraordinary AI server revenue accelerationMay 29, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/05/29/dells-extraordinary-ai-server-revenue-acceleration/5248541",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252042+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell’s extraordinary AI server revenue accelerationMay 29, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/05/29/dells-extraordinary-ai-server-revenue-acceleration/5248541",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.252053+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage Reviews",
+      "url": "https://www.storagereview.com/review",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627325+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Consumer Reviews",
+      "url": "https://www.storagereview.com/consumer",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627346+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Enterprise Reviews",
+      "url": "https://www.storagereview.com/enterprise",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627351+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage Reference Guide",
+      "url": "https://www.storagereview.com/storage-reference-guide",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627356+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "StorageReview.com Sweepstakes Rules and Regulations",
+      "url": "https://www.storagereview.com/storagereview-com-sweepstakes-rules-and-regulations",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627360+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell PowerStore Gen 3: Inside the Most Aggressive Enterprise Storage Reset in YearsMay 19, 2026",
+      "url": "https://www.storagereview.com/review/dell-powerstore-gen-3",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627366+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell PowerProtect One: Open, Integrated, and Intelligent Cyber ResilienceMay 19, 2026",
+      "url": "https://www.storagereview.com/review/dell-powerprotect-one",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627371+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell PowerProtect Data Domain All-Flash Appliance: The Intel Powered All-Flash Foundation for Cyber ResilienceMay 19, 2026",
+      "url": "https://www.storagereview.com/review/dell-powerprotect-data-domain-all-flash-appliance-the-intel-powered-all-flash-foundation-for-cyber-resilience",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627377+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Veeam Expands Data Resilience Portfolio with DataAI Command Platform, v13.1 Updates, and AI Trust FrameworkMay 15, 2026",
+      "url": "https://www.storagereview.com/news/veeam-expands-data-resilience-portfolio-with-dataai-command-platform-v13-1-updates-and-ai-trust-framework",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627384+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Expands GreenLake with New Private Cloud Systems, Enhanced AI-Ready Data PlatformMay 14, 2026",
+      "url": "https://www.storagereview.com/news/hpe-expands-greenlake-with-new-private-cloud-systems-enhanced-ai-ready-data-platform",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.627390+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Laptop Best Picks",
+      "url": "https://www.tomshardware.com/laptops/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873514+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Keyboard Best Picks",
+      "url": "https://www.tomshardware.com/peripherals/keyboards/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873535+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Gaming Monitor Best Picks",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873541+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Gaming Headset Best Picks",
+      "url": "https://www.tomshardware.com/peripherals/headphones-headsets/gaming-headsets/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873546+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "3D Printer Best Picks",
+      "url": "https://www.tomshardware.com/3d-printing/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873550+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Webcam Best Picks",
+      "url": "https://www.tomshardware.com/peripherals/webcams/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873555+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mice Best Picks",
+      "url": "https://www.tomshardware.com/peripherals/mice/best-picks",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873559+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Intel Lunar Lake",
+      "url": "https://www.tomshardware.com/tag/lunar-lake",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873563+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Rare Earth Metals",
+      "url": "https://www.tomshardware.com/tag/rare-earth-metals",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873567+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Nvidia Blackwell",
+      "url": "https://www.tomshardware.com/tag/nvidia-blackwell",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.873571+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Articles & Reviews",
+      "url": "https://www.phoronix.com/reviews",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982738+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Premium Ad-Free",
+      "url": "https://www.phoronix.com/phoronix-premium",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982758+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Articles & Reviews",
+      "url": "https://www.phoronix.com/reviews",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982764+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Display Drivers",
+      "url": "https://www.phoronix.com/reviews/Display+Drivers",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982769+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Operating Systems",
+      "url": "https://www.phoronix.com/reviews/Operating+Systems",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982774+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever",
+      "url": "https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982778+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever",
+      "url": "https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982784+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series",
+      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982788+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series",
+      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982794+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.1-rc6 Released Following Another \"Larger-Than-I'd-Wish-For Size\" Week",
+      "url": "https://www.phoronix.com/news/Linux-7.1-rc6-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:06.982798+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Financial results",
+      "url": "https://www.nextplatform.com/tag/financial%20results",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782562+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "All the latest news, from all sections",
+      "url": "https://www.nextplatform.com/lateststories",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782584+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data And Storage At The Center Of The AI StackMay 29, 2026",
+      "url": "https://www.nextplatform.com/store/2026/05/29/data-and-storage-at-the-center-of-the-ai-stack/5247585",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782591+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data And Storage At The Center Of The AI StackMay 29, 2026",
+      "url": "https://www.nextplatform.com/store/2026/05/29/data-and-storage-at-the-center-of-the-ai-stack/5247585",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782599+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is ElectriciansMay 28, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782604+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is ElectriciansMay 28, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782611+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A CutMay 27, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782616+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A CutMay 27, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782622+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTENot So Fast On That Charge For 800 Volt Datacenter PowerMay 27, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/27/not-so-fast-on-that-charge-for-800-volt-datacenter-power/5246760",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782626+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTENot So Fast On That Charge For 800 Volt Datacenter PowerMay 27, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/05/27/not-so-fast-on-that-charge-for-800-volt-datacenter-power/5246760",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:07.782632+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mission and Vision",
+      "url": "https://www.snia.org/about-snia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535581+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "History of SNIA",
+      "url": "https://www.snia.org/history-of-snia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535601+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.snia.org/board-directors",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535607+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Technical Council",
+      "url": "https://www.snia.org/board-directors?tab=tab1",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535611+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Volunteer Recognition",
+      "url": "https://www.snia.org/volunteer-recognition",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535616+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SNIA Member Recognition Program",
+      "url": "https://www.snia.org/2023-Member-Recognition-Honorees",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535621+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SNIA Alliance Program",
+      "url": "https://www.snia.org/about/alliances",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535626+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Fibre Channel Industry Association (FCIA)",
+      "url": "https://www.snia.org/about/alliances/fcia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.535642+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Specification Library",
+      "url": "https://pcisig.com/specifications",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825020+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI Express® 8.0 Specification",
+      "url": "https://pcisig.com/specifications/pcier-80-specification-draft-05-now-available-members",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825043+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI Express 7.0 Specification",
+      "url": "https://pcisig.com/specifications/pcie-70-specification-version-03-now-available-members",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825051+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI Express 6.0 Specification",
+      "url": "https://pcisig.com/pci-express-6.0-specification",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825056+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Specification Ordering Information",
+      "url": "https://pcisig.com/specifications/order-form",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825059+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Fixture Ordering Information",
+      "url": "https://pcisig.com/specifications/fixture-order-form",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825064+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG® Developers Conference 2026",
+      "url": "https://pcisig.com/pci-sig-developers-conference-2026",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825068+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG Developers Conference Taiwan 2026",
+      "url": "https://pcisig.com/events/pci-sig-developers-conference-taiwan-2026",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825074+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG Developers Conference India 2025",
+      "url": "https://pcisig.com/events/pci-sig-developers-conference-india-2025",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825079+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG Developers Conference Korea 2025",
+      "url": "https://pcisig.com/events/pci-sig-developers-conference-korea-2025",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-01T02:49:08.825083+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Informa TechTarget|",
+      "url": "https://www.informatechtarget.com/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001315+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data Center Knowledge",
+      "url": "https://www.datacenterknowledge.com/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001335+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Explore our brands",
+      "url": "https://www.informatechtarget.com/our-brands/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001341+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "An Informa TechTarget Publication",
+      "url": "https://www.informatechtarget.com/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001345+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Leading Lights Awards",
+      "url": "https://www.lightreading.com/leading-lights/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001350+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Partner with us",
+      "url": "https://read.lightreading.com/2025_Mediakit_WEBSITE",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001355+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Newsletter Sign-Up",
+      "url": "https://lr-resources.lightreading.com/c/pubRD.mpl?secure=1&sr=pp&_t=pp:&qf=w_defa4290&ch=lrwebbutton ",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001359+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Newsletter Sign-Up",
+      "url": "https://lr-resources.lightreading.com/c/pubRD.mpl?secure=1&sr=pp&_t=pp:&qf=w_defa4290&ch=lrwebbutton ",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001363+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cable Technology",
+      "url": "https://www.lightreading.com/network-technology/cable-technology",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:09.001372+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "IEEEXploreDigital Library",
+      "url": "http://ieeexplore.ieee.org/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561127+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Board of Governors",
+      "url": "https://ieeephotonics.org/about/board-of-governors/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561149+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Membership Council",
+      "url": "https://ieeephotonics.org/about/membership-council/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561154+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Publications Council",
+      "url": "https://ieeephotonics.org/about/publications-council/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561159+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Conference Council",
+      "url": "https://ieeephotonics.org/about/conference-council/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561164+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Professional & Technical Development Council",
+      "url": "https://ieeephotonics.org/about/professional-technical-development-council/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561167+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Strategic Committees",
+      "url": "https://ieeephotonics.org/about/strategic-committees/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561173+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Standing Committees",
+      "url": "https://ieeephotonics.org/about/standing-committees/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561177+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "About IEEE Photonics Society",
+      "url": "https://ieeephotonics.org/about/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561181+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Celebrating 60 Years",
+      "url": "https://ieeephotonics.org/about/60-years/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:25.561186+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "OpenLight: funding, customers and the shift to production",
+      "url": "https://gazettabyte.com/openlight-funding-customers-and-the-shift-to-production/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684726+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Oriole rethinks AI accelerator scaling",
+      "url": "https://gazettabyte.com/oriole-rethinks-ai-accelerator-scaling/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684755+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "60-second interview",
+      "url": "https://gazettabyte.com/?tax_category=60-second-interview&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684760+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Company feature",
+      "url": "https://gazettabyte.com/?tax_category=company-feature&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684765+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Data centre interconnect",
+      "url": "https://gazettabyte.com/?tax_category=data-centre-interconnect&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684769+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Internet of Things",
+      "url": "https://gazettabyte.com/?tax_category=internet-of-things&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684774+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Network transformation",
+      "url": "https://gazettabyte.com/?tax_category=network-transformation&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684778+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "artificial intelligence",
+      "url": "https://gazettabyte.com/?tax_category=artificial-intelligence&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684783+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "cable operators",
+      "url": "https://gazettabyte.com/?tax_category=cable-operators&unfilter=1",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:26.684787+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Transport Hardware",
+      "url": "https://cignal.ai/opteq_hw/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119234+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Research Notes – Active Insight",
+      "url": "https://cignal.ai/category/subscriptions/optai/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119269+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Register Account",
+      "url": "https://www.cignal.ai/register",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119277+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Find Out If You’re A Client",
+      "url": "https://cignal.ai/newsletter-sign-up/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119282+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Purchase Services",
+      "url": "https://cignal.ai/purchase/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119288+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "1Q26 Vendor Reports and Key Takeaways",
+      "url": "https://cignal.ai/2026/05/1q26-vendor-reports-and-key-takeaways/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119292+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Tracking the Coherent DSP Supply Chain – 2026",
+      "url": "https://cignal.ai/2026/04/tracking-the-coherent-dsp-supply-chain-2026/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119298+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "OFC 2026 Show Report",
+      "url": "https://cignal.ai/2026/03/ofc-2026-show-report/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-01T02:49:27.119310+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Executive Platform",
+      "url": "https://blogs.cisco.com/news",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635888+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "All Countries + Regions",
+      "url": "https://blogs.cisco.com/country-region",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635909+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "High Tech Policy",
+      "url": "https://blogs.cisco.com/gov",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635915+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Learn with Cisco",
+      "url": "https://blogs.cisco.com/learning",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635920+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Our Corporate Purpose",
+      "url": "https://blogs.cisco.com/our-corporate-purpose",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635925+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SP360: Service Provider",
+      "url": "https://blogs.cisco.com/sp",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635930+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SMB: Small and Medium Business",
+      "url": "https://blogs.cisco.com/smb",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635935+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Subscribe to Cisco Blogs",
+      "url": "https://app.feedpress.com/e/mailverify?feed_id=CiscoBlogs",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635939+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cisco optical innovations deliver resilient, scalable, efficient AI networking",
+      "url": "https://blogs.cisco.com/sp/cisco-optical-innovations-deliver-resilient-scalable-efficient-ai-networking",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635944+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "sp360: service provider",
+      "url": "https://blogs.cisco.com/sp",
+      "source": "Cisco Optical",
+      "category": "vendor",
+      "fetched_at": "2026-06-01T02:49:29.635950+00:00",
+      "score": 0,
+      "matched_keywords": []
+    }
+  ]
+}
