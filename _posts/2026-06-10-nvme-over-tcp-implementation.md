@@ -18,7 +18,7 @@ description: "NVMe over TCPの仕組みとLinux nvme-tcpドライバの実装、
 
 「え、本当ですか？そんなことできるんすか？TCPってファイル転送とかWebのプロトコルじゃないですか。ストレージのコマンドを流せるもんなんすか。」
 
-『もちろん。<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>っていう、<ruby>NVMe<rp>《</rp><rt>エヌブイエムイー</rt><rp>》</rp></ruby>プロトコルをネットワーク経由に拡張する技術群の一つだ。トランスポートにはInfiniBand、<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>、iWARP、TCPが選べる。その中で一番導入が簡単なのがTCPってわけだ。』
+『もちろん。<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>っていう、<ruby>NVMe<rp>《</rp><rt>エヌブイエムイー</rt><rp>》</rp></ruby>プロトコルをネットワーク経由に拡張する技術群の一つだ。トランスポートには<ruby>InfiniBand<rp>《</rp><rt>インフィニバンド</rt><rp>》</rp></ruby>、<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>、<ruby>iWARP<rp>《</rp><rt>アイワープ</rt><rp>》</rp></ruby>、TCPが選べる。その中で一番導入が簡単なのがTCPってわけだ。』
 
 「<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>って聞いたことあります。<ruby>RDMA<rp>《</rp><rt>アールディーエムエー</rt><rp>》</rp></ruby>(アールディーエムエー)のやつですよね？そっちの方が速いんじゃないんですか。」
 
@@ -30,7 +30,7 @@ description: "NVMe over TCPの仕組みとLinux nvme-tcpドライバの実装、
 
 「カプセル化ってどういうフォーマットなんですか？独自プロトコルですか？」
 
-『カプセル化のフォーマットは<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>共通のCAP形式に従ってて、<ruby>PDU<rp>《</rp><rt>ピーディーユー</rt><rp>》</rp></ruby>単位で転送される。InfiniBandや<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>と同じ<ruby>PDU<rp>《</rp><rt>ピーディーユー</rt><rp>》</rp></ruby>形式を共有するから、トランスポートが変わっても上の処理は共通化できる。これが<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>の設計思想だ。トランスポート層だけを差し替え可能にしてる。』
+『カプセル化のフォーマットは<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>共通のCAP形式に従ってて、<ruby>PDU<rp>《</rp><rt>ピーディーユー</rt><rp>》</rp></ruby>単位で転送される。<ruby>InfiniBand<rp>《</rp><rt>インフィニバンド</rt><rp>》</rp></ruby>や<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>と同じ<ruby>PDU<rp>《</rp><rt>ピーディーユー</rt><rp>》</rp></ruby>形式を共有するから、トランスポートが変わっても上の処理は共通化できる。これが<ruby>NVMe-oF<rp>《</rp><rt>エヌブイエムイーオーヴァーファブリックス</rt><rp>》</rp></ruby>の設計思想だ。トランスポート層だけを差し替え可能にしてる。』
 
 「なるほど。じゃあTCPの上に乗せる時は、TCPのストリームに<ruby>PDU<rp>《</rp><rt>ピーディーユー</rt><rp>》</rp></ruby>をそのまま流し込む感じですか？」
 

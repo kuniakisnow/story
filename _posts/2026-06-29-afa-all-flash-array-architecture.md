@@ -58,7 +58,7 @@ description: "全フラッシュアレイのコントローラアーキテクチ
 
 「それが<ruby>AFA<rp>《</rp><rt>エーエフエー</rt><rp>》</rp></ruby>だとどう変わるんですか？」
 
-『<ruby>AFA<rp>《</rp><rt>エーエフエー</rt><rp>》</rp></ruby>では<ruby>PCIe<rp>《</rp><rt>ピーシーアイイー</rt><rp>》</rp></ruby>スイッチを使う。各SSDがコントローラに直接ポイントツーポイントで接続されるイメージだ。<ruby>PCIe<rp>《</rp><rt>ピーシーアイイー</rt><rp>》</rp></ruby> Gen4なら1レーンあたり約2GB/s、Gen5なら約4GB/s。最新の<ruby>AFA<rp>《</rp><rt>エーエフエー</rt><rp>》</rp></ruby>ではGen5内部バスが当たり前になりつつある』
+『<ruby>AFA<rp>《</rp><rt>エーエフエー</rt><rp>》</rp></ruby>では<ruby>PCIe<rp>《</rp><rt>ピーシーアイイー</rt><rp>》</rp></ruby>スイッチを使う。各SSDがコントローラに直接ポイントツーポイントで接続されるイメージだ。<ruby>PCIe<rp>《</rp><rt>ピーシーアイイー</rt><rp>》</rp></ruby> <ruby>Gen4<rp>《</rp><rt>ジェンフォー</rt><rp>》</rp></ruby>なら1レーンあたり約2GB/s、<ruby>Gen5<rp>《</rp><rt>ジェンファイブ</rt><rp>》</rp></ruby>なら約4GB/s。最新の<ruby>AFA<rp>《</rp><rt>エーエフエー</rt><rp>》</rp></ruby>では<ruby>Gen5<rp>《</rp><rt>ジェンファイブ</rt><rp>》</rp></ruby>内部バスが当たり前になりつつある』
 
 「つまり…ボトルネックがなくなるってことですか？」
 
@@ -124,7 +124,7 @@ description: "全フラッシュアレイのコントローラアーキテクチ
 
 「<ruby>RDMA<rp>《</rp><rt>アールディーエムエー</rt><rp>》</rp></ruby>要らないって、それって逆に制約にならないんですか？」
 
-『<ruby>確<rp>《</rp><rt>たしか</rt><rp>》</rp></ruby>かにレイテンシは<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>やInfiniBandより大きい。ただし導入コストが圧倒的に低い。<ruby>RDMA<rp>《</rp><rt>アールディーエムエー</rt><rp>》</rp></ruby>対応のNICやスイッチは高額だが、<ruby>Lightbits<rp>《</rp><rt>ライトビッツ</rt><rp>》</rp></ruby>なら既存のイーサネット環境をそのまま使える。これがマルチクラウド環境で評価されてる』
+『<ruby>確<rp>《</rp><rt>たしか</rt><rp>》</rp></ruby>かにレイテンシは<ruby>RoCE<rp>《</rp><rt>ローチェ</rt><rp>》</rp></ruby>や<ruby>InfiniBand<rp>《</rp><rt>インフィニバンド</rt><rp>》</rp></ruby>より大きい。ただし導入コストが圧倒的に低い。<ruby>RDMA<rp>《</rp><rt>アールディーエムエー</rt><rp>》</rp></ruby>対応のNICやスイッチは高額だが、<ruby>Lightbits<rp>《</rp><rt>ライトビッツ</rt><rp>》</rp></ruby>なら既存のイーサネット環境をそのまま使える。これがマルチクラウド環境で評価されてる』
 
 「なるほど…ユースケースによって選べってことですね」
 

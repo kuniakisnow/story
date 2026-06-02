@@ -53,7 +53,7 @@ description: "分散ストレージの代表格CephとMinIOを中心に、アー
 
 『そこで登場するのが<ruby>Placement Group<rp>《</rp><rt>プレースメントグループ</rt><rp>》</rp></ruby>、通称<ruby>PG<rp>《</rp><rt>ピージー</rt><rp>》</rp></ruby>だ。<ruby>RADOS<rp>《</rp><rt>ラドス</rt><rp>》</rp></ruby>はデータをオブジェクト単位で管理するが、そのオブジェクトを<ruby>PG<rp>《</rp><rt>ピージー</rt><rp>》</rp></ruby>というグループにまとめる。そして<ruby>PG<rp>《</rp><rt>ピージー</rt><rp>》</rp></ruby>単位でレプリカや<ruby>Erasure Coding<rp>《</rp><rt>イレイジャーコーディング</rt><rp>》</rp></ruby>を適用する。』
 
-「<ruby>Erasure Coding<rp>《</rp><rt>イレイジャーコーディング</rt><rp>》</rp></ruby>…聞いたことあります！RAIDのパリティみたいなやつですよね？」
+「<ruby>Erasure Coding<rp>《</rp><rt>イレイジャーコーディング</rt><rp>》</rp></ruby>…聞いたことあります！RAIDの<ruby>パリティ<rp>《</rp><rt>パリティ</rt><rp>》</rp></ruby>みたいなやつですよね？」
 
 『似ているが、もっと柔軟で強力だ。k+mのパラメータで、k個のデータチャンクに対してm個のパリティチャンクを作る。例えば8+3なら、11台の<ruby>OSD<rp>《</rp><rt>オーエスディー</rt><rp>》</rp></ruby>にデータを分散して、そのうち最大3台が同時に死んでもデータは復元できる。』
 
@@ -91,7 +91,7 @@ description: "分散ストレージの代表格CephとMinIOを中心に、アー
 
 「<ruby>Kubernetes<rp>《</rp><rt>クバネティス</rt><rp>》</rp></ruby>ネイティブってわけですね。S3互換ってのも大きいですよね。AWS S3のAPIをそのまま使えるから、既存のS3 SDKでアクセスできる」
 
-『そう。アプリケーション側はS3エンドポイントを<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>に切り替えるだけでいい。<ruby>バケット<rp>《</rp><rt>バケット</rt><rp>》</rp></ruby>もオブジェクトもそのまま扱える。さらに<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>は**マルチサイト構成**で地理分散もできる。アクティブ/アクティブのレプリケーションで、東京と大阪のクラスタ間でデータを自動同期できるんだ。』
+『そう。アプリケーション側はS3エンドポイントを<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>に切り替えるだけでいい。バケットもオブジェクトもそのまま扱える。さらに<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>は**マルチサイト構成**で地理分散もできる。アクティブ/アクティブのレプリケーションで、東京と大阪のクラスタ間でデータを自動同期できるんだ。』
 
 「災害対策にも強いと。でもそれならもう<ruby>Ceph<rp>《</rp><rt>セフ</rt><rp>》</rp></ruby>はいらないんじゃ…」
 
@@ -115,7 +115,7 @@ description: "分散ストレージの代表格CephとMinIOを中心に、アー
 
 「<ruby>Ceph<rp>《</rp><rt>セフ</rt><rp>》</rp></ruby>にもあるんですか？」
 
-『<ruby>Ceph<rp>《</rp><rt>セフ</rt><rp>》</rp></ruby> <ruby>RGW<rp>《</rp><rt>アールジーダブリュー</rt><rp>》</rp></ruby>にも<ruby>Object Lock<rp>《</rp><rt>オブジェクトロック</rt><rp>》</rp></ruby>機能はある。ただし<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>の方が実装がシンプルで、ドキュメントも充実してる。あと、<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>の特徴として**<ruby>バケット<rp>《</rp><rt>バケット</rt><rp>》</rp></ruby>単位の暗号化**（SSE-S3）や**KMS統合**（<ruby>Hashicorp Vault<rp>《</rp><rt>ハシコープボールト</rt><rp>》</rp></ruby>など）もサポートしてる。』
+『<ruby>Ceph<rp>《</rp><rt>セフ</rt><rp>》</rp></ruby> <ruby>RGW<rp>《</rp><rt>アールジーダブリュー</rt><rp>》</rp></ruby>にも<ruby>Object Lock<rp>《</rp><rt>オブジェクトロック</rt><rp>》</rp></ruby>機能はある。ただし<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>の方が実装がシンプルで、ドキュメントも充実してる。あと、<ruby>MinIO<rp>《</rp><rt>ミニオ</rt><rp>》</rp></ruby>の特徴として**バケット単位の暗号化**（SSE-S3）や**KMS統合**（<ruby>Hashicorp Vault<rp>《</rp><rt>ハシコープボールト</rt><rp>》</rp></ruby>など）もサポートしてる。』
 
 「じゃあ、本番ではどっちを選べばいいんですか？」
 
