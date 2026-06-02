@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "シリコンフォトニクス"
-date: 2026-06-22 09:00:00 +0900
+date: 2026-06-09 09:00:00 +0900
 tags: [optical, silicon-photonics, interconnect]
 description: "シリコンフォトニクスの基本原理、Si細線導波路やMQW変調器、Ge-on-Siフォトディテクタ、CMOS互換プロセスによる量産、IntelやAyar Labsの実例、光源実装と熱安定性の課題までを解説します。"
 ---

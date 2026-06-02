@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "コンテナストレージ ― CSIとRook/Longhorn/Portworxで実現するステートフルコンテナ"
-date: 2026-08-31 09:00:00 +0900
+date: 2026-06-21 09:00:00 +0900
 tags: [storage, container, kubernetes, csi]
 description: "コンテナ環境におけるストレージの課題から、CSI（Container Storage Interface）、Rook/Ceph、Longhorn、Portworx、StatefulSet設計、パフォーマンス考慮点までを解説します。"
 ---

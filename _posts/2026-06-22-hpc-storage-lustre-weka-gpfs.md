@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HPCストレージの世界 ― Lustre・GPFS・WEKA・BeeGFSを徹底比較"
-date: 2026-09-07 09:00:00 +0900
+date: 2026-06-22 09:00:00 +0900
 tags: [storage, hpc, lustre, gpfs, parallel-fs]
 description: "HPC向け並列ファイルシステムの主要4製品（Lustre・GPFS/Spectrum Scale・WEKA・BeeGFS）を徹底比較。アーキテクチャ、メタデータ管理、バーストバッファ、AI/HPCコンバージェンスまで解説。"
 ---

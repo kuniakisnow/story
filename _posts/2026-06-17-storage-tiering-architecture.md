@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "ストレージ階層化アーキテクチャ ― HDD・SSD・CXL-SCM・DRAMの4層最適配置"
-date: 2026-08-03 09:00:00 +0900
+date: 2026-06-17 09:00:00 +0900
 tags: [storage, tiering, hdd, ssd, optimization]
 description: "HDD・SSD・CXL-SCM・DRAMの4層ストレージ階層化アーキテクチャを解説。自動階層管理技術、コスト最適化、アクセスパターンに応じたデータ配置の戦略。"
 ---

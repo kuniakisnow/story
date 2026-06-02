@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "CPO（Co-Packaged Optics）"
-date: 2026-06-24 09:00:00 +0900
+date: 2026-06-10 09:00:00 +0900
 tags: [optical, cpo, co-packaged]
 description: "CPO（Co-Packaged Optics）の定義やプラガブル光トランシーバとの比較、Broadcom HummingbirdやCisco Silicon Oneの実装例、熱設計課題、歩留まり・保守性・量産への道までを解説します。"
 ---

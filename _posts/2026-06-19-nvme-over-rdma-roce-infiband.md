@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NVMe over RDMA ― RoCEv2とInfiniBandで実現する超低レイテンシストレージ"
-date: 2026-08-17 09:00:00 +0900
+date: 2026-06-19 09:00:00 +0900
 tags: [storage, nvme, rdma, roce, infiniband]
 description: "RDMAの基本からInfiniBand・RoCEv2・iWARPの比較、NVMe over RDMAの実測性能、PFC/DCQCN設計、GPUDirect RDMAまで徹底解説。"
 ---

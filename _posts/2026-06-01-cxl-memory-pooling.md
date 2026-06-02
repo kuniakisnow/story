@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "CXLメモリプーリングの実装と最新動向"
-date: 2026-06-07 09:00:00 +0900
+date: 2026-06-01 09:00:00 +0900
 tags: [cxl, memory-pooling]
 description: "CXL（Compute Express Link）のメモリプーリング技術について、プロトコル概要から実装方式、ユースケースまで解説します。"
 ---

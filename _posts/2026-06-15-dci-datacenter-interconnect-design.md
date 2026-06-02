@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "DCI全体設計 ― DWDMとコヒーレントの統合"
-date: 2026-07-20 09:00:00 +0900
+date: 2026-06-15 09:00:00 +0900
 tags: [optical, dci, datacenter, network-design]
 description: "データセンタ間接続（DCI）の全体設計について、DWDMとコヒーレント光の統合、ROADM網設計、マルチサイト構成、レイテンシ最適化までを解説します。"
 ---

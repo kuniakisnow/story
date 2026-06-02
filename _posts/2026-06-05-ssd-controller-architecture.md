@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "SSDコントローラアーキテクチャの深層 ― FTLからPCIe Gen6まで"
-date: 2026-06-14 09:00:00 +0900
+date: 2026-06-05 09:00:00 +0900
 tags: [ssd, controller, ftl]
 description: "SSDコントローラの中核をなすFTL、LDPC ECCエンジン、DRAM管理、3D NAND 300層時代の課題、PCIe Gen5/Gen6対応について解説する"
 ---

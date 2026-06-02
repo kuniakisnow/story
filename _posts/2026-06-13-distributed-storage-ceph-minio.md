@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "分散ストレージ ― CephとMinIOで実現するスケールアウトの世界"
-date: 2026-07-06 09:00:00 +0900
+date: 2026-06-13 09:00:00 +0900
 tags: [storage, distributed, ceph, minio, object-storage]
 description: "分散ストレージの代表格CephとMinIOを中心に、アーキテクチャ、Erasure Coding、S3互換API、ハードウェア構成まで解説します。"
 ---

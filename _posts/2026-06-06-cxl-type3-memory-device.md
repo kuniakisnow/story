@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "CXL Type-3メモリデバイスの実力 ― Samsung・SK hynix・Micronの最新製品"
-date: 2026-06-16 09:00:00 +0900
+date: 2026-06-06 09:00:00 +0900
 tags: [cxl, type3, memory]
 description: "CXL Type-3メモリデバイスのアーキテクチャ、Samsung CMM-D・SK hynix NGD・Micron CZ120の実製品比較、Linuxホスト対応、NUMAエクステンダとしての活用を解説する"
 ---

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "SmartNIC/DPU ― CPUをストレージとネットワーク処理から解放する"
-date: 2026-07-13 09:00:00 +0900
+date: 2026-06-14 09:00:00 +0900
 tags: [network, smartnic, dpu, bluefield, offload]
 description: "SmartNIC/DPUのアーキテクチャと代表製品、NVMe-oFオフロード、vSwitch高速化、データプレーン分離によるCPUサイクル節約効果を解説します。"
 ---

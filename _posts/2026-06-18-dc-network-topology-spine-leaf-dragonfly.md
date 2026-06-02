@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "データセンタネットワークトポロジ ― Spine-Leaf／Dragonfly／Fat-Tree"
-date: 2026-08-10 09:00:00 +0900
+date: 2026-06-18 09:00:00 +0900
 tags: [network, datacenter, topology, spine-leaf]
 description: "データセンタネットワークのトポロジ設計をSpine-Leaf、Dragonfly、Fat-Treeの3つに焦点を当てて解説。VXLAN/EVPNオーバレイやRoCEv2対応の設計まで。"
 ---

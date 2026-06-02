@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "1.6T光トランシーバ"
-date: 2026-06-26 09:00:00 +0900
+date: 2026-06-11 09:00:00 +0900
 tags: [optical, transceiver, 1-6t]
 description: "1.6T光トランシーバのフォームファクタ（OSFP 1600／QSFP-DD1600）、電気インタフェース（8x200G・224Gbps/lane PAM4）、変調方式、IEEE規格の拡張、2026年のサンプル出荷状況、量産時期予測と課題までを解説します。"
 ---

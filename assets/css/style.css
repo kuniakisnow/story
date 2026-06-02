@@ -106,62 +106,27 @@ body {
   margin-top: 8px;
 }
 
-.narou-honbun {
-  min-height: 300px;
-}
+.p-novel__text {
 
-.narou-honbun h2 {
-  font-size: 22px;
-  margin: 40px 0 16px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ddd;
-}
+.p-novel__text h2 {
 
-.narou-honbun h3 {
-  font-size: 19px;
-  margin: 32px 0 12px;
-}
+.p-novel__text h3 {
 
-.narou-honbun p {
-  margin: 16px 0;
-  line-height: 1.9;
-}
+.p-novel__text p {
 
-.narou-honbun ul, .narou-honbun ol {
-  margin: 16px 0;
-  padding-left: 24px;
-}
+.p-novel__text ul, .p-novel__text ol {
 
-.narou-honbun li { margin: 8px 0; }
+.p-novel__text li { margin: 8px 0; }
 
-.narou-honbun code {
-  font-family: "SF Mono", "Fira Code", monospace;
-  font-size: 15px;
-  background: #f0f0f0;
-  padding: 2px 6px;
-  border-radius: 3px;
-}
+.p-novel__text code {
 
-.narou-honbun pre {
-  background: #2d2d2d;
-  color: #f8f8f2;
-  padding: 16px;
-  border-radius: 6px;
-  overflow-x: auto;
-  font-size: 14px;
-  line-height: 1.5;
-  margin: 16px 0;
-}
+.p-novel__text pre {
 
-.narou-honbun pre code {
-  background: none;
-  padding: 0;
-  color: inherit;
-}
+.p-novel__text pre code {
 
-.narou-honbun a { color: #3498db; }
+.p-novel__text a { color: #3498db; }
 
-.narou-honbun blockquote {
+.p-novel__text blockquote {
   border-left: 4px solid #3498db;
   padding: 12px 20px;
   margin: 16px 0;

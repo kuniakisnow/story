@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "DWDMとデータセンタ光ネットワーク"
-date: 2026-06-20 09:00:00 +0900
+date: 2026-06-08 09:00:00 +0900
 tags: [optical, dwdm, datacenter]
 description: "DWDMの原理からITU-Tグリッド、ROADM／OXCによる光ネットワーク構成、データセンタにおけるリング・メッシュトポロジ、OpenROADM MSAまでを解説します。"
 ---

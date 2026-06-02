@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "SSDフォームファクタの新時代 ― EDSFFの全容"
-date: 2026-07-27 09:00:00 +0900
+date: 2026-06-16 09:00:00 +0900
 tags: [storage, ssd, form-factor, edsff, pcie]
 description: "データセンタ向けSSDフォームファクタEDSFF（E3.S, E1.S）の全容を解説。M.2/U.2との違い、PCIe Gen5/Gen6対応と放熱設計、ホットスワップ機構まで。"
 ---

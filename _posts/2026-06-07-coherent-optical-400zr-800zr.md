@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "コヒーレント光通信と400ZR／800ZR"
-date: 2026-06-18 09:00:00 +0900
+date: 2026-06-07 09:00:00 +0900
 tags: [optical, coherent, 400zr, 800zr]
 description: "コヒーレント光通信の基本原理から、OIF 400ZR／800ZR規格、OpenZR+ MSA、DCIにおけるプラガブルコヒーレント光のインパクトまでを解説します。"
 ---

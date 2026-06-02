@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ストレージデータ保護 ― RAIDからErasure Coding、そしてデータ整合性まで"
-date: 2026-08-24 09:00:00 +0900
+date: 2026-06-20 09:00:00 +0900
 tags: [storage, data-protection, raid, erasure-coding]
 description: "RAID 0/1/5/6の歴史からWrite Hole問題、Erasure Codingの理論、Reed-Solomon符号、LRCへの進化、ZFS RAID-Z、サイレントデータ破損対策まで、ストレージデータ保護技術を網羅的に解説します。"
 ---
