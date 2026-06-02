@@ -6,10 +6,8 @@ lang: ja
 timezone: Asia/Tokyo
 future: true
 
-future: true
-
 url: "https://kuniakisnow.github.io"
-baseurl: ""
+baseurl: "/story"
 permalink: /:year/:month/:day/:title/
 
 markdown: kramdown

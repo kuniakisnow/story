@@ -15,7 +15,7 @@ title: "Storage & Optical Tech Blog"
     {% for post in site.posts %}
     <li>
       <span class="narou-toc-ep">第{{ ep_count | minus: forloop.index0 }}話</span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span class="narou-toc-date">{{ post.date | date: "%Y-%m-%d" }}</span>
     </li>
     {% endfor %}

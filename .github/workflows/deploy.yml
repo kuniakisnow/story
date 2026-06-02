@@ -32,8 +32,15 @@ jobs:
       - name: Apply ruby annotations
         run: python scripts/apply_ruby.py
       
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        id: build
+        run: bundle exec jekyll build --baseurl "/story"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
