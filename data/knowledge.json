@@ -1,6 +1,330 @@
 {
-  "last_run": "2026-06-01T02:49:29.858495+00:00",
+  "last_run": "2026-06-08T04:52:23.958882+00:00",
   "articles": [
+    {
+      "title": "DiscussionIntel Meteor, Arrow, Lunar & Panther Lakes + WCL Discussion Threads",
+      "url": "https://www.anandtech.com/threads/intel-meteor-arrow-lunar-panther-lakes-wcl-discussion-threads.2606448/post-41615031",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:16.347283+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "QuestionSSD or motherboard issue?",
+      "url": "https://www.anandtech.com/threads/ssd-or-motherboard-issue.2634751/post-41614090",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:16.347291+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "NewsRX 9070 GRE launches June 1st @ $550",
+      "url": "https://www.anandtech.com/threads/rx-9070-gre-launches-june-1st-550.2634802/post-41614938",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:16.347297+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "FILEEnterprises need unified NFS+SMB file services, and files and file servers will outlive us allJune 6, 2026",
+      "url": "https://www.blocksandfiles.com/file/2026/06/06/enterprises-need-unified-nfssmb-file-services-and-files-and-file-servers-will-outlive-us-all/5251491",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.261211+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FILEEnterprises need unified NFS+SMB file services, and files and file servers will outlive us allJune 6, 2026",
+      "url": "https://www.blocksandfiles.com/file/2026/06/06/enterprises-need-unified-nfssmb-file-services-and-files-and-file-servers-will-outlive-us-all/5251491",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.261220+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "data protectionFolio Photonics gets A-round cash for multi-layer optical disk techJune 5, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/06/05/folio-photonics-gets-a-round-cash-for-multi-layer-optical-disk-tech/5251482",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.261226+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "data protectionFolio Photonics gets A-round cash for multi-layer optical disk techJune 5, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/06/05/folio-photonics-gets-a-round-cash-for-multi-layer-optical-disk-tech/5251482",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.261234+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "From Database and Virtualized Workloads to Backup: Dell PowerEdge R4715 and R5715 for SMB RealitiesJune 5, 2026",
+      "url": "https://www.storagereview.com/review/from-database-and-virtualized-workloads-to-backup-dell-poweredge-r4715-and-r5715-for-smb-realities",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.650920+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "MSI Brings Liquid-Cooled ORv3 Racks, NVIDIA MGX Servers, and a DGX Station Desktop to COMPUTEX 2026June 3, 2026",
+      "url": "https://www.storagereview.com/news/msi-brings-liquid-cooled-orv3-racks-nvidia-mgx-servers-and-a-dgx-station-desktop-to-computex-2026",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.650927+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Micron 6600 ION 245TB SSD Review: A Quarter Petabyte Per Drive BayJune 2, 2026",
+      "url": "https://www.storagereview.com/review/micron-6600-ion-245tb-ssd-review-a-quarter-petabyte-per-drive-bay",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.650935+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Radeon RX 9070 GRE Review: 12GB RDNA 4 for 1440p GamingJune 1, 2026",
+      "url": "https://www.storagereview.com/review/amd-radeon-rx-9070-gre-review-12gb-rdna-4-for-1440p-gaming",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.650942+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "NVIDIA Computex 2026 Keynote: The RTX Spark PC Family, DGX Station, and Physical AIJune 1, 2026",
+      "url": "https://www.storagereview.com/news/nvidia-computex-2026-keynote-the-rtx-spark-pc-family-dgx-station-and-physical-ai",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:14.650948+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.1-rc7 Released: Stable Hopefully Next Sunday",
+      "url": "https://www.phoronix.com/news/Linux-7.1-rc7",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.019151+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.1-rc7 Released: Stable Hopefully Next Sunday",
+      "url": "https://www.phoronix.com/news/Linux-7.1-rc7",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.019158+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Firefox Merges Support For Vulkan Video Decoding",
+      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.019164+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Firefox Merges Support For Vulkan Video Decoding",
+      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.019170+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Wayland Protocols 1.49 Released With Improved Multi-GPU Support, Windows BT.2100",
+      "url": "https://www.phoronix.com/news/Wayland-Protocols-1.49",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.019175+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Chip Capacity Constraints Put A Governor On AI Spending GrowthJune 5, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677485+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Chip Capacity Constraints Put A Governor On AI Spending GrowthJune 5, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677493+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Enhanced Performance For Server Consolidation With Intel Xeon 6+June 4, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/04/enhanced-performance-for-server-consolidation-with-intel-xeon-6/5251112",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677499+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Enhanced Performance For Server Consolidation With Intel Xeon 6+June 4, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/04/enhanced-performance-for-server-consolidation-with-intel-xeon-6/5251112",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677507+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Catches Its First GenAI Wave With Enterprises, Sovereigns, And NeocloudsJune 4, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/04/hpe-catches-its-first-genai-wave-with-enterprises-sovereigns-and-neoclouds/5250944",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677512+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Catches Its First GenAI Wave With Enterprises, Sovereigns, And NeocloudsJune 4, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/04/hpe-catches-its-first-genai-wave-with-enterprises-sovereigns-and-neoclouds/5250944",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677520+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AICisco Preps For A World Of AI Agent Coworkers, Frontier Model ThreatsJune 3, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/06/03/cisco-preps-for-a-world-of-ai-agent-coworkers-frontier-model-threats/5250406",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677527+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AICisco Preps For A World Of AI Agent Coworkers, Frontier Model ThreatsJune 3, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/06/03/cisco-preps-for-a-world-of-ai-agent-coworkers-frontier-model-threats/5250406",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:15.677534+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG® Developers Conference Asia-Pacific 2026",
+      "url": "https://pcisig.com/events/pci-sig-developers-conference-asia-pacific-2026",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-08T04:52:16.963534+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exhibitor Service Center",
+      "url": "https://www.ofcconference.org/exhibitor-service-center/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491907+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "For Media/Exhibitor PR",
+      "url": "https://www.ofcconference.org/news-media/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491929+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "2026 Conference Programs",
+      "url": "https://www.ofcconference.org/program/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491937+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "2026 Exhibition Programs",
+      "url": "https://www.ofcconference.org/exhibition-theater-programs/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491949+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Watch the 2026 Plenary Session.",
+      "url": "https://www.ofcconference.org/program/plenary-session/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491954+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "All eyes were on OFC.",
+      "url": "https://www.ofcconference.org/schedule/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491960+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Watch the 2026 Plenary Session.Industry leaders from Coherent, NVIDIA and Tesat-Spacecom took the stage to share insights on the technologies transforming the industry.",
+      "url": "https://www.ofcconference.org/program/plenary-session/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491966+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "View the list of 2026 Invited Speakers.Insights and inspiration from an unforgettable event.",
+      "url": "https://www.ofcconference.org/program/tutorial-invited-speakers/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491976+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Experience the OFC 2026 Technical Program.Catch up on this premier event’s workshops, panels, tutorials and more.",
+      "url": "https://www.ofcconference.org/program/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491984+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exhibit at OFC 2027.Increase awareness and position your brand alongside global leaders in the industry.",
+      "url": "https://www.ofcconference.org/exhibit-at-ofc ",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-08T04:52:18.491998+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Other Components",
       "url": "https://www.servethehome.com/category/server-parts/other-components/",
