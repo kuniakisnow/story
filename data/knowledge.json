@@ -1,6 +1,251 @@
 {
-  "last_run": "2026-06-08T04:52:23.958882+00:00",
+  "last_run": "2026-06-15T05:16:22.975924+00:00",
   "articles": [
+    {
+      "title": "Introducing the WDM Pluggable Applications Forecast",
+      "url": "https://cignal.ai/2026/06/introducing-the-wdm-pluggable-applications-forecast/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-06-15T05:16:20.616518+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "WDM"
+      ]
+    },
+    {
+      "title": "DDN wants strategic investorsJune 12, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/06/12/ddn-wants-strategic-investors/5254665",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.091590+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "DDN wants strategic investorsJune 12, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/06/12/ddn-wants-strategic-investors/5254665",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.091596+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "BeeGFS and GRAU DATA add tape archive backend to parallel file systemJune 12, 2026",
+      "url": "https://www.blocksandfiles.com/file/2026/06/12/beegfs-and-grau-data-add-tape-archive-backend-to-parallel-file-system/5254919",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.091601+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "BeeGFS and GRAU DATA add tape archive backend to parallel file systemJune 12, 2026",
+      "url": "https://www.blocksandfiles.com/file/2026/06/12/beegfs-and-grau-data-add-tape-archive-backend-to-parallel-file-system/5254919",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.091608+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Alletra Storage MP B10000 and NIST CSF 2.0: A Full-Stack Cyber Resilience ArchitectureJune 12, 2026",
+      "url": "https://www.storagereview.com/review/hpe-alletra-storage-mp-b10000-and-nist-csf-2-0-a-full-stack-cyber-resilience-architecture",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.468804+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Synology Extends ActiveProtect to AWS, Azure, Proxmox, and Nutanix with APM 2.0 at COMPUTEX 2026June 9, 2026",
+      "url": "https://www.storagereview.com/news/synology-extends-activeprotect-to-aws-azure-proxmox-and-nutanix-with-apm-2-0-at-computex-2026",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.468811+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Become a member",
+      "url": "https://www.tomshardware.com/membership",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746424+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Become a premium member",
+      "url": "https://www.tomshardware.com/membership",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746441+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Explore PREMIUM",
+      "url": "https://www.tomshardware.com/membership",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746449+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Explore PREMIUM",
+      "url": "https://www.tomshardware.com/membership",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746455+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Explore premium",
+      "url": "https://www.tomshardware.com/premium",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746460+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exclusive Features",
+      "url": "https://www.tomshardware.com/tag/premium-feature",
+      "source": "Tom's Hardware",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.746464+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Kbuild",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.864471+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Kbuild",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.864479+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics",
+      "url": "https://www.phoronix.com/news/Linux-7.1-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.864484+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics",
+      "url": "https://www.phoronix.com/news/Linux-7.1-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.864491+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:14.864496+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To PredictJune 12, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.698972+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To PredictJune 12, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.698980+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck BigtimeJune 11, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/11/aws-tunes-up-graviton5-for-agentic-ai-boosts-bang-for-the-buck-bigtime/5254538",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.698985+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck BigtimeJune 11, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/11/aws-tunes-up-graviton5-for-agentic-ai-boosts-bang-for-the-buck-bigtime/5254538",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.698992+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cost Per Genomics Sample? Try Cost Per Sequencing AttemptJune 11, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/06/11/cost-per-genomics-sample-try-cost-per-sequencing-attempt/5254177",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.698997+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cost Per Genomics Sample? Try Cost Per Sequencing AttemptJune 11, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/06/11/cost-per-genomics-sample-try-cost-per-sequencing-attempt/5254177",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.699004+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D-Wave Riding The Dual-Rail For Its Gate-Model Quantum AmbitionsJune 10, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/10/d-wave-riding-the-dual-rail-for-its-gate-model-quantum-ambitions/5253279",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.699009+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D-Wave Riding The Dual-Rail For Its Gate-Model Quantum AmbitionsJune 10, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/10/d-wave-riding-the-dual-rail-for-its-gate-model-quantum-ambitions/5253279",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-15T05:16:15.699019+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Past Board of Governors",
+      "url": "https://ieeephotonics.org/about/board-of-governors/past-board-governors/",
+      "source": "IEEE Photonics",
+      "category": "optical",
+      "fetched_at": "2026-06-15T05:16:18.633016+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "DiscussionIntel Meteor, Arrow, Lunar & Panther Lakes + WCL Discussion Threads",
       "url": "https://www.anandtech.com/threads/intel-meteor-arrow-lunar-panther-lakes-wcl-discussion-threads.2606448/post-41615031",
