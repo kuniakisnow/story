@@ -1,6 +1,195 @@
 {
-  "last_run": "2026-06-15T05:16:22.975924+00:00",
+  "last_run": "2026-06-22T05:17:42.152489+00:00",
   "articles": [
+    {
+      "title": "DiscussionApple Silicon SoC thread",
+      "url": "https://www.anandtech.com/threads/apple-silicon-soc-thread.2587205/post-41619742",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:34.133493+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "NewsNew AM4 motherboard coming - and looks damn good!",
+      "url": "https://www.anandtech.com/threads/new-am4-motherboard-coming-and-looks-damn-good.2634943/post-41619476",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:34.133499+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "DiscussionRDNA 5 / UDNA (CDNA Next) speculation",
+      "url": "https://www.anandtech.com/threads/rdna-5-udna-cdna-next-speculation.2624468/post-41619744",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:34.133506+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage news ticker - 19 June 2026June 19, 2026",
+      "url": "https://www.blocksandfiles.com/data-management/2026/06/19/storage-news-ticker-19-june-2026/5259093",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.188951+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage news ticker - 19 June 2026June 19, 2026",
+      "url": "https://www.blocksandfiles.com/data-management/2026/06/19/storage-news-ticker-19-june-2026/5259093",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.188957+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI/MLZilliz lays out vector database and lakebase differencesJune 19, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/06/19/zilliz-lays-out-vector-database-and-lakebase-differences/5258689",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.188963+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI/MLZilliz lays out vector database and lakebase differencesJune 19, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/06/19/zilliz-lays-out-vector-database-and-lakebase-differences/5258689",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.188970+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HighPoint Rocket 1604L Review: Four Gen5 M.2 SSDs, One Slot, 55.6GB/sJune 19, 2026",
+      "url": "https://www.storagereview.com/review/highpoint-rocket-1604l-review-four-gen5-m-2-ssds-one-slot-55-6gb-s",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.564918+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Kioxia CD9P-R Review: Read-Intensive Gen5 Up to 61.44TBJune 18, 2026",
+      "url": "https://www.storagereview.com/review/kioxia-cd9p-r-review-read-intensive-gen5-up-to-61-44tb",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.564925+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Everpure Launches Data Stream to Accelerate Enterprise AI Data PipelinesJune 17, 2026",
+      "url": "https://www.storagereview.com/news/everpure-launches-data-stream-to-accelerate-enterprise-ai-data-pipelines",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.564932+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Everpure Introduces Data Intelligence and Enterprise Data Cloud Enhancements for AI WorkloadsJune 17, 2026",
+      "url": "https://www.storagereview.com/news/everpure-introduces-data-intelligence-and-enterprise-data-cloud-enhancements-for-ai-workloads",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.564939+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Expands Self-Driving Networks Across Edge, Campus, Data Center, and AI FactoriesJune 16, 2026",
+      "url": "https://www.storagereview.com/news/hpe-expands-self-driving-networks-across-edge-campus-data-center-and-ai-factories",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.564947+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement",
+      "url": "https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.925321+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement",
+      "url": "https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.925329+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations",
+      "url": "https://www.phoronix.com/news/zlib-rs-0.6.4",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.925335+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations",
+      "url": "https://www.phoronix.com/news/zlib-rs-0.6.4",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.925342+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Qualcomm Posts Linux Patches For HP EliteBook X G2q X2 Elite Laptop",
+      "url": "https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-22T05:17:32.925348+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "OFC 2027 Is Coming Soon",
+      "url": "https://www.ofcconference.org/about/sign-up-for-updates/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-22T05:17:35.842059+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "JOIN THESE LEADERS",
+      "url": "https://www.ofcconference.org/Exhibit-at-OFC",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-22T05:17:35.842081+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "JOIN THESE LEADERS",
+      "url": "https://www.ofcconference.org/Exhibit-at-OFC",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-22T05:17:35.842086+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Event Policies and Terms",
+      "url": "https://www.ofcconference.org/about/event-policies-terms/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-22T05:17:35.842092+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Introducing the WDM Pluggable Applications Forecast",
       "url": "https://cignal.ai/2026/06/introducing-the-wdm-pluggable-applications-forecast/",
