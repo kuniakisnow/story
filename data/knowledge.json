@@ -1,6 +1,262 @@
 {
-  "last_run": "2026-06-22T05:17:42.152489+00:00",
+  "last_run": "2026-06-29T04:49:50.031298+00:00",
   "articles": [
+    {
+      "title": "Panmnesia boosts CXL scale with fabric switching. Meta repurposes old DRAM with CXLJune 26, 2026",
+      "url": "https://www.blocksandfiles.com/architecture/2026/06/26/panmnesia-boosts-cxl-scale-with-fabric-switching-meta-repurposes-old-dram-with-cxl/5263151",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.516894+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "CXL"
+      ]
+    },
+    {
+      "title": "Panmnesia boosts CXL scale with fabric switching. Meta repurposes old DRAM with CXLJune 26, 2026",
+      "url": "https://www.blocksandfiles.com/architecture/2026/06/26/panmnesia-boosts-cxl-scale-with-fabric-switching-meta-repurposes-old-dram-with-cxl/5263151",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.516902+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "CXL"
+      ]
+    },
+    {
+      "title": "QuestionZen 6 Speculation Thread",
+      "url": "https://www.anandtech.com/threads/zen-6-speculation-thread.2619444/post-41621876",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.903703+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "QuestionConstant Errors after Upgrade",
+      "url": "https://www.anandtech.com/threads/constant-errors-after-upgrade.2618377/post-41621415",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.903710+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "InfoPush RDNA4 to 500W (don't blame me if you are too ambitious and manage to brick your GPU)",
+      "url": "https://www.anandtech.com/threads/push-rdna4-to-500w-dont-blame-me-if-you-are-too-ambitious-and-manage-to-brick-your-gpu.2635019/post-41621846",
+      "source": "AnandTech",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.903716+00:00",
+      "score": 10,
+      "matched_keywords": []
+    },
+    {
+      "title": "Two up quarters in a row for QuantumJune 26, 2026",
+      "url": "https://www.blocksandfiles.com/tape/2026/06/26/two-up-quarters-in-a-row-for-quantum/5262802",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.516908+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Two up quarters in a row for QuantumJune 26, 2026",
+      "url": "https://www.blocksandfiles.com/tape/2026/06/26/two-up-quarters-in-a-row-for-quantum/5262802",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.516914+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "NetApp StorageGRID 12.1 Adds a Federated Namespace and Up to 12 TB/s for AI WorkloadsJune 26, 2026",
+      "url": "https://www.storagereview.com/news/netapp-storagegrid-12-1-adds-a-federated-namespace-and-up-to-12-tb-s-for-ai-workloads",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.907452+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "IBM’s 0.7nm Nanostack Packs Nearly 100 Billion Transistors, Pushes Logic Below 1nmJune 25, 2026",
+      "url": "https://www.storagereview.com/news/ibms-0-7nm-nanostack-packs-nearly-100-billion-transistors-pushes-logic-below-1nm",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.907459+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell PowerEdge XE8812 Brings NVIDIA Vera Rubin NVL4 to HPC, Up to 144 GPUs Per RackJune 25, 2026",
+      "url": "https://www.storagereview.com/news/dell-poweredge-xe8812-brings-nvidia-vera-rubin-nvl4-to-hpc-up-to-144-gpus-per-rack",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.907474+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Qualcomm Unveils Dragonfly Data Center Roadmap: C1000 CPU, AI300 Accelerator, and Modular AcquisitionJune 25, 2026",
+      "url": "https://www.storagereview.com/news/qualcomm-unveils-dragonfly-data-center-roadmap-c1000-cpu-ai300-accelerator-and-modular-acquisition",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.907481+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HP Z8 Fury G6i Review: One Xeon, up to Four Blackwell GPUsJune 23, 2026",
+      "url": "https://www.storagereview.com/review/hp-z8-fury-g6i-review-one-xeon-up-to-four-blackwell-gpus",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:39.907489+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy",
+      "url": "https://www.phoronix.com/news/Mageia-10-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:40.309437+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Operating Systems",
+      "url": "https://www.phoronix.com/linux/Operating+Systems",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:40.309445+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy",
+      "url": "https://www.phoronix.com/news/Mageia-10-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:40.309451+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Operating Systems",
+      "url": "https://www.phoronix.com/linux/Operating+Systems",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:40.309457+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Arch Linux's Archinstall 4.4 Adds Dank Material Shell + Niri Desktop Option",
+      "url": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.4",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:40.309462+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The End Of Boom/Bust Cycles For The Memory MarketJune 26, 2026",
+      "url": "https://www.nextplatform.com/store/2026/06/26/the-end-of-boom/bust-cycles-for-the-memory-market/5263287",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248261+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The End Of Boom/Bust Cycles For The Memory MarketJune 26, 2026",
+      "url": "https://www.nextplatform.com/store/2026/06/26/the-end-of-boom/bust-cycles-for-the-memory-market/5263287",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248268+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A Deep Dive On China’s “LineShine” All-CPU, Exaflops-Class SupercomputerJune 25, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248274+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A Deep Dive On China’s “LineShine” All-CPU, Exaflops-Class SupercomputerJune 25, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248285+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-TenancyJune 24, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/24/hpe-delivers-upgraded-hpc-hardware-software-for-security-sovereignty-and-multi-tenancy/5261332",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248294+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-TenancyJune 24, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/24/hpe-delivers-upgraded-hpc-hardware-software-for-security-sovereignty-and-multi-tenancy/5261332",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248302+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "hpcAMD And Nvidia Are Neck And Neck In HPC SupercomputingJune 23, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248309+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "hpcAMD And Nvidia Are Neck And Neck In HPC SupercomputingJune 23, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:41.248316+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Open Compute Project",
+      "url": "https://www.snia.org/about/alliances/ocp",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:42.147933+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "OpenFabrics Alliance",
+      "url": "https://www.snia.org/about/alliances/ofa",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-06-29T04:49:42.147939+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Code of Conduct",
+      "url": "https://www.ofcconference.org/about/code-of-conduct/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-06-29T04:49:44.453227+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "DiscussionApple Silicon SoC thread",
       "url": "https://www.anandtech.com/threads/apple-silicon-soc-thread.2587205/post-41619742",
