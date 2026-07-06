@@ -1,6 +1,190 @@
 {
-  "last_run": "2026-06-29T04:49:50.031298+00:00",
+  "last_run": "2026-07-06T04:17:51.607428+00:00",
   "articles": [
+    {
+      "title": "flashKioxia and Sandisk sample shipping 332-layer 3D NANDJuly 3, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/07/03/kioxia-and-sandisk-sample-shipping-332-layer-3d-nand/5266362",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:40.973205+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "3D NAND"
+      ]
+    },
+    {
+      "title": "flashKioxia and Sandisk sample shipping 332-layer 3D NANDJuly 3, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/07/03/kioxia-and-sandisk-sample-shipping-332-layer-3d-nand/5266362",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:40.973212+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "3D NAND"
+      ]
+    },
+    {
+      "title": "data protectionVeeam leads 2026 Gartner Backup MQ by a whiskerJuly 3, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/07/03/veeam-leads-2026-gartner-backup-mq-by-a-whisker/5266085",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:40.973192+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "data protectionVeeam leads 2026 Gartner Backup MQ by a whiskerJuly 3, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/07/03/veeam-leads-2026-gartner-backup-mq-by-a-whisker/5266085",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:40.973199+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "NVIDIA Quietly Makes Omniverse Free for Production UseJuly 3, 2026",
+      "url": "https://www.storagereview.com/news/nvidia-quietly-makes-omniverse-free-for-production-use",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.176902+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Versal Premium Gen 2 MoP: 32GB In-Package LPDDR5X, 288GB/s, 60% Less Board AreaJune 30, 2026",
+      "url": "https://www.storagereview.com/news/amd-versal-premium-gen-2-mop-32gb-in-package-lpddr5x-288gb-s-60-less-board-area",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.176909+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "JetCool Brings SmartPlate Direct-to-Chip Cooling to the Dell PowerEdge XE7745June 29, 2026",
+      "url": "https://www.storagereview.com/news/jetcool-brings-smartplate-direct-to-chip-cooling-to-the-dell-poweredge-xe7745",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.176916+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D7VK's Performance Gains Since Its Inception For Older Direct3D Versions On Linux",
+      "url": "https://www.phoronix.com/news/D7VK-1.12",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.807614+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D7VK's Performance Gains Since Its Inception For Older Direct3D Versions On Linux",
+      "url": "https://www.phoronix.com/news/D7VK-1.12",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.807622+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc2 Released: \"Things Look Very Normal\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.807627+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc2 Released: \"Things Look Very Normal\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.807633+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "DXVK 3.0.1 Released With More Game Fixes, Other Improvements",
+      "url": "https://www.phoronix.com/news/DXVK-3.0.1-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:41.807638+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Of Course Meta Platforms Is Going To Be A CloudJuly 1, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533013+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Of Course Meta Platforms Is Going To Be A CloudJuly 1, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533020+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Three HPC Gurus Ask: Do We Still Need GPUs?June 30, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533025+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Three HPC Gurus Ask: Do We Still Need GPUs?June 30, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533031+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Optical Scale Up Fabrics Are Limited By Manufacturing, Not ArchitectureJune 30, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/06/30/optical-scale-up-fabrics-are-limited-by-manufacturing-not-architecture/5264399",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533036+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Optical Scale Up Fabrics Are Limited By Manufacturing, Not ArchitectureJune 30, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/06/30/optical-scale-up-fabrics-are-limited-by-manufacturing-not-architecture/5264399",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533043+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Stretches Server DRAM With Flash Extended MemoryJune 29, 2026",
+      "url": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533052+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Stretches Server DRAM With Flash Extended MemoryJune 29, 2026",
+      "url": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-06T04:17:42.533058+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Panmnesia boosts CXL scale with fabric switching. Meta repurposes old DRAM with CXLJune 26, 2026",
       "url": "https://www.blocksandfiles.com/architecture/2026/06/26/panmnesia-boosts-cxl-scale-with-fabric-switching-meta-repurposes-old-dram-with-cxl/5263151",
