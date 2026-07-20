@@ -1,6 +1,260 @@
 {
-  "last_run": "2026-07-13T03:41:51.871566+00:00",
+  "last_run": "2026-07-20T03:50:31.665475+00:00",
   "articles": [
+    {
+      "title": "Optical Component Startup Tracker",
+      "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:27.800278+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "Storage news ticker - 17 JulyJuly 17, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/07/17/storage-news-ticker-17-july/5274466",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.091370+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage news ticker - 17 JulyJuly 17, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/07/17/storage-news-ticker-17-july/5274466",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.091374+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Qumulo pals up with DatabricksJuly 17, 2026",
+      "url": "https://www.blocksandfiles.com/data-management/2026/07/17/qumulo-pals-up-with-databricks/5274406",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.091378+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Qumulo pals up with DatabricksJuly 17, 2026",
+      "url": "https://www.blocksandfiles.com/data-management/2026/07/17/qumulo-pals-up-with-databricks/5274406",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.091382+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Dell Outsells the Rest of IDC’s Top Five Combined in Q1 External StorageJuly 18, 2026",
+      "url": "https://www.storagereview.com/news/dell-outsells-the-rest-of-idcs-top-five-combined-in-q1-external-storage",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.365829+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "NVIDIA and Japan Launch 27,500-GPU Vera Rubin AI Factory as Physical AI Push Spans Every IndustryJuly 16, 2026",
+      "url": "https://www.storagereview.com/news/nvidia-and-japan-launch-27500-gpu-vera-rubin-ai-factory-as-physical-ai-push-spans-every-industry",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.365840+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Supermicro Expands DCBBS Liquid Cooling With Ten Rear Door Heat Exchangers Up to 120kWJuly 15, 2026",
+      "url": "https://www.storagereview.com/news/supermicro-expands-dcbbs-liquid-cooling-with-ten-rear-door-heat-exchangers-up-to-120kw",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.365845+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "IBM Power S1112 Brings Local AI Inference to the Edge as Power Goes AutonomousJuly 15, 2026",
+      "url": "https://www.storagereview.com/news/ibm-power-s1112-brings-local-ai-inference-to-the-edge-as-power-goes-autonomous",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.365851+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "WhiteFiber’s Project Redwood Links Two H200 Clusters Into One 111.2 Tbps SuperclusterJuly 14, 2026",
+      "url": "https://www.storagereview.com/news/whitefibers-project-redwood-links-two-h200-clusters-into-one-111-2-tbps-supercluster",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:20.365856+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc4 Released: Looking Like The \"New Normal\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc4-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.072774+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc4 Released: Looking Like The \"New Normal\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc4-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.072778+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.072781+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.072785+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion",
+      "url": "https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.072789+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100July 17, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823884+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100July 17, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823890+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI Chips Drive Around A Third Of TSMC RevenuesJuly 16, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823894+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI Chips Drive Around A Third Of TSMC RevenuesJuly 16, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823899+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SREs To AI Agents: Prove Yourself Before You Touch ProductionJuly 15, 2026",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823902+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SREs To AI Agents: Prove Yourself Before You Touch ProductionJuly 15, 2026",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823907+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Aspirations Of HPE And Dell In The Quantum-Classical HPC DatacenterJuly 13, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823910+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Aspirations Of HPE And Dell In The Quantum-Classical HPC DatacenterJuly 13, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-20T03:50:21.823915+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Submit a Paper.View the submission guidelines and topic categories.",
+      "url": "https://www.ofcconference.org/submit-a-paper/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:25.432043+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "View the OFC 2027 Committee.Let us introduce these exceptional researchers, scientists and innovators who help shape the technical conference program.",
+      "url": "https://www.ofcconference.org/about/committee/",
+      "source": "OFC Conference",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:25.432054+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "How Eindhoven became an integrated photonics European hotspot",
+      "url": "https://gazettabyte.com/how-eindhoven-became-an-integrated-photonics-european-hotspot/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:27.024549+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Coherent Lite: Technology, Applications and Forecast – 2Q26",
+      "url": "https://cignal.ai/2026/07/coherent-lite-technology-applications-and-forecast-2q26/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:27.800268+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "2Q26 Vendor Reports and Key Takeaways",
+      "url": "https://cignal.ai/2026/07/2q26-vendor-reports-and-key-takeaways/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-07-20T03:50:27.800273+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Samsung PM1763 PCIe Gen6 SSD Enters Mass Production With 28.4 GB/s ReadsJuly 8, 2026",
       "url": "https://www.storagereview.com/news/samsung-pm1763-pcie-gen6-ssd-enters-mass-production-with-28-4-gb-s-reads",
