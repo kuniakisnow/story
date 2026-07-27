@@ -1,6 +1,250 @@
 {
-  "last_run": "2026-07-20T03:50:31.665475+00:00",
+  "last_run": "2026-07-27T03:50:45.164577+00:00",
   "articles": [
+    {
+      "title": "AMD 6th Gen EPYC Venice: 256 Cores, 1.6TB/s, and the First PCIe Gen 6 Server CPUJuly 23, 2026",
+      "url": "https://www.storagereview.com/news/amd-6th-gen-epyc-venice-256-cores-1-6tb-s-and-the-first-pcie-gen-6-server-cpu",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.958947+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "1.6T"
+      ]
+    },
+    {
+      "title": "Salience Labs Wants To Scale Up AI With Silicon Photonics Optical SwitchJuly 22, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093525+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "silicon photonics"
+      ]
+    },
+    {
+      "title": "Salience Labs Wants To Scale Up AI With Silicon Photonics Optical SwitchJuly 22, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093532+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "silicon photonics"
+      ]
+    },
+    {
+      "title": "2026 Sponsorship Opportunities",
+      "url": "https://pcisig.com/events/2026-sponsorship-opportunities",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:39.232254+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "PON"
+      ]
+    },
+    {
+      "title": "Lightwave Logic looks to augment silicon photonics in the race for 400G optics",
+      "url": "https://gazettabyte.com/lightwave-logic-looks-to-augment-silicon-photonics-in-the-race-for-400g-optics/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-07-27T03:50:42.953413+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "silicon photonics"
+      ]
+    },
+    {
+      "title": "Storage news ticker - 25 JulyJuly 24, 2026",
+      "url": "https://www.blocksandfiles.com/tape/2026/07/24/storage-news-ticker-25-july/5278392",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.582287+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage news ticker - 25 JulyJuly 24, 2026",
+      "url": "https://www.blocksandfiles.com/tape/2026/07/24/storage-news-ticker-25-july/5278392",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.582293+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Where did that NAND upstart come from?July 24, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/07/24/where-did-that-nand-upstart-come-from/5278261",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.582298+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Where did that NAND upstart come from?July 24, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/07/24/where-did-that-nand-upstart-come-from/5278261",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.582304+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Supermicro H15 Servers Pair 6th Gen EPYC With MI350P GPU Systems and the Helios RackJuly 25, 2026",
+      "url": "https://www.storagereview.com/news/supermicro-h15-servers-pair-6th-gen-epyc-with-mi350p-gpu-systems-and-the-helios-rack",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.958939+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD MI455X and Helios: 432GB HBM4, 72-GPU Racks, and a Real Answer to Vera RubinJuly 23, 2026",
+      "url": "https://www.storagereview.com/news/amd-mi455x-and-helios-432gb-hbm4-72-gpu-racks-and-a-real-answer-to-vera-rubin",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.958955+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Token-Efficient Path for Long-Context Inference: KV Cache Offload to FlashJuly 22, 2026",
+      "url": "https://www.storagereview.com/review/the-token-efficient-path-for-long-context-inference-kv-cache-offload-to-flash",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.958962+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "WEKA’s WEKApod 3 Breaks the Single-Rack Exabyte Barrier as NeuralMesh 6 Goes Multi-TenantJuly 21, 2026",
+      "url": "https://www.storagereview.com/news/wekas-wekapod-3-breaks-the-single-rack-exabyte-barrier-as-neuralmesh-6-goes-multi-tenant",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:36.958969+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc5 Released: \"Once More We Have Quite A Massive -rc5\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc5-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:37.411731+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc5 Released: \"Once More We Have Quite A Massive -rc5\"",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc5-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:37.411738+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GNU Binutils 2.47 Released With More RISC-V Extensions, New Options",
+      "url": "https://www.phoronix.com/news/GNU-Binutils-2.47",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:37.411743+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GNU Binutils 2.47 Released With More RISC-V Extensions, New Options",
+      "url": "https://www.phoronix.com/news/GNU-Binutils-2.47",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:37.411750+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "\"KVM Chainsaw\" Expected To Hit Linux 7.3 For Dealing With God Data Structure",
+      "url": "https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:37.411755+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Money AMD Is Chasing With Its Rackscale AI System RoadmapsJuly 24, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093498+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Money AMD Is Chasing With Its Rackscale AI System RoadmapsJuly 24, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093505+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "DoE Fires The $5 Billion Starter Gun For Its AI-Targeted Genesis MissionJuly 23, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093512+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "DoE Fires The $5 Billion Starter Gun For Its AI-Targeted Genesis MissionJuly 23, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093519+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GenAI Hardware Investments Are Way Ahead Of Model And Platform RevenuesJuly 21, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093539+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GenAI Hardware Investments Are Way Ahead Of Model And Platform RevenuesJuly 21, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-07-27T03:50:38.093547+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The AI business case for the telcos",
+      "url": "https://gazettabyte.com/the-ai-business-case-for-the-telcos/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-07-27T03:50:42.953439+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Optical Circuit Switching Market – 2Q26",
+      "url": "https://cignal.ai/2026/07/optical-circuit-switching-market-2q26/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-07-27T03:50:43.354977+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Optical Component Startup Tracker",
       "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
