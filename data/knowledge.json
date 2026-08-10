@@ -1,6 +1,204 @@
 {
-  "last_run": "2026-08-03T03:40:44.661410+00:00",
+  "last_run": "2026-08-10T02:23:12.311281+00:00",
   "articles": [
+    {
+      "title": "Storage News Ticker - 7 Aug 2026August 7, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/08/07/storage-news-ticker-7-aug-2026/5284925",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.221881+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage News Ticker - 7 Aug 2026August 7, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/08/07/storage-news-ticker-7-aug-2026/5284925",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.221887+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HDD failure rates by manufacturer revealedAugust 7, 2026",
+      "url": "https://www.blocksandfiles.com/disk/2026/08/07/hdd-failure-rates-by-manufacturer-revealed/5284845",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.221892+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "HDD failure rates by manufacturer revealedAugust 7, 2026",
+      "url": "https://www.blocksandfiles.com/disk/2026/08/07/hdd-failure-rates-by-manufacturer-revealed/5284845",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.221898+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD to Acquire Taalas, the Toronto Startup Building Silicon Around One ModelAugust 9, 2026",
+      "url": "https://www.storagereview.com/news/amd-to-acquire-taalas-the-toronto-startup-building-silicon-around-one-model",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.457711+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CoreWeave Locks In Solidigm SSD Supply as Flash Allocation Becomes an AI Cloud ProblemAugust 7, 2026",
+      "url": "https://www.storagereview.com/news/coreweave-locks-in-solidigm-ssd-supply-as-flash-allocation-becomes-an-ai-cloud-problem",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.457718+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "WD Bets 8x Bandwidth Beats More Terabytes as 40TB UltraSMR Starts ShippingAugust 6, 2026",
+      "url": "https://www.storagereview.com/news/wd-bets-8x-bandwidth-beats-more-terabytes-as-40tb-ultrasmr-starts-shipping",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.457725+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower Token CostsAugust 6, 2026",
+      "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.457732+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "VMware vDefend Claims 75Tbps Distributed Firewall Throughput in Broadcom VCF 9.1 UpdateAugust 6, 2026",
+      "url": "https://www.storagereview.com/news/vmware-vdefend-75tbps-distributed-firewall-vcf-9-1-update",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.457739+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc7-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.979224+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week",
+      "url": "https://www.phoronix.com/news/Linux-7.2-rc7-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.979231+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CachyOS August 2026 Release Preps For Upcoming Server Edition",
+      "url": "https://www.phoronix.com/news/CachyOS-August-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.979237+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CachyOS August 2026 Release Preps For Upcoming Server Edition",
+      "url": "https://www.phoronix.com/news/CachyOS-August-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:02.979249+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its ChipperyAugust 7, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373684+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its ChipperyAugust 7, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373692+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum ArchitectureAugust 7, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373697+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum ArchitectureAugust 7, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373705+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Google Builds A New Gemini Model Team As AI Investments AccelerateAugust 6, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373711+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Google Builds A New Gemini Model Team As AI Investments AccelerateAugust 6, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373718+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Your Platform Was Built For A Different Era, And AI Just Exposed ItAugust 6, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/your-platform-was-built-for-a-different-era-and-ai-just-exposed-it/5284205",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373723+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Your Platform Was Built For A Different Era, And AI Just Exposed ItAugust 6, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/your-platform-was-built-for-a-different-era-and-ai-just-exposed-it/5284205",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-10T02:23:03.373730+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Adtran opens its network software to telecom operators’ AI agents",
+      "url": "https://gazettabyte.com/adtran-opens-its-network-software-to-telecom-operators-ai-agents/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-08-10T02:23:07.966717+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Storage News Ticker - 31 JulyJuly 31, 2026",
       "url": "https://www.blocksandfiles.com/security/2026/07/31/storage-news-ticker-31-july/5281885",
