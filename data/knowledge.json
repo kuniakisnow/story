@@ -1,6 +1,233 @@
 {
-  "last_run": "2026-08-10T02:23:12.311281+00:00",
+  "last_run": "2026-08-17T01:46:26.708416+00:00",
   "articles": [
+    {
+      "title": "Lumentum promotes both VCSELs and indium phosphide lasers for co-packaged optics",
+      "url": "https://gazettabyte.com/lumentum-promotes-both-vcsels-and-indium-phosphide-lasers-for-co-packaged-optics/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-08-17T01:46:17.064058+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "co-packaged optics"
+      ]
+    },
+    {
+      "title": "Storage Leaderboard",
+      "url": "https://www.storagereview.com/best_drives",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359630+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Enterprise SSDs",
+      "url": "https://www.storagereview.com/best/enterprise-ssds",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359636+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Ubiquiti Reviews",
+      "url": "https://www.storagereview.com/best/ubiquiti-reviews",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359641+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Desktops for Local AI",
+      "url": "https://www.storagereview.com/best/desktops-local-ai",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359646+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Laptop Battery Life",
+      "url": "https://www.storagereview.com/best/laptop-battery-life",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359653+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Mobile Workstations",
+      "url": "https://www.storagereview.com/best/mobile-workstations",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359658+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Desktop Workstations",
+      "url": "https://www.storagereview.com/best/desktop-workstations",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:11.359664+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2 Released With Faster I/O, New AMD & Intel Driver Improvements",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.045195+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.2 Released With Faster I/O, New AMD & Intel Driver Improvements",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.045202+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GIMP Making Progress On New Project File Format After Nearly 30 Years With XCF",
+      "url": "https://www.phoronix.com/news/GIMP-New-File-Format-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.045208+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "GIMP Making Progress On New Project File Format After Nearly 30 Years With XCF",
+      "url": "https://www.phoronix.com/news/GIMP-New-File-Format-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.045215+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "tlbi=  Boot Option Submitted Ahead Of Linux 7.2 Kernel Release",
+      "url": "https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.045221+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CLOUDThe Neoclouds Build Cash Hoards Faster Than RevenuesAugust 14, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/14/the-neoclouds-build-cash-hoards-faster-than-revenues/5288040",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741864+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CLOUDThe Neoclouds Build Cash Hoards Faster Than RevenuesAugust 14, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/08/14/the-neoclouds-build-cash-hoards-faster-than-revenues/5288040",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741872+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AIThe War Between Open Source, Open Weight, And Closed AI ModelsAugust 13, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741878+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AIThe War Between Open Source, Open Weight, And Closed AI ModelsAugust 13, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741886+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEThe GenAI Boom Will Lift Supermicro, But It Will Lift Others, TooAugust 13, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741894+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEThe GenAI Boom Will Lift Supermicro, But It Will Lift Others, TooAugust 13, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741902+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AINvidia Drives Bang For The Buck With New GenAI Model And RouterAugust 11, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/08/11/nvidia-drives-bang-for-the-buck-with-new-genai-model-and-router/5286365",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741907+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AINvidia Drives Bang For The Buck With New GenAI Model And RouterAugust 11, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/08/11/nvidia-drives-bang-for-the-buck-with-new-genai-model-and-router/5286365",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:12.741915+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG Compliance Workshop #141",
+      "url": "https://pcisig.com/events/pci-sig-compliance-workshop-141",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:14.123790+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PCI-SIG Developers Conference India 2026",
+      "url": "https://pcisig.com/events/pci-sig-developers-conference-india-2026",
+      "source": "PCI-SIG Blog",
+      "category": "storage",
+      "fetched_at": "2026-08-17T01:46:14.123799+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Partner with us",
+      "url": "https://www.informatechtarget.com/media-kit/light-reading-media-kit/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-08-17T01:46:14.355631+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FCC Ban on New Chinese Optical Modules",
+      "url": "https://cignal.ai/2026/08/fcc-ban-on-new-chinese-optical-modules/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-08-17T01:46:17.591375+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Storage News Ticker - 7 Aug 2026August 7, 2026",
       "url": "https://www.blocksandfiles.com/data-protection/2026/08/07/storage-news-ticker-7-aug-2026/5284925",
