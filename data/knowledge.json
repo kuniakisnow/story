@@ -1,6 +1,195 @@
 {
-  "last_run": "2026-08-17T01:46:26.708416+00:00",
+  "last_run": "2026-08-24T01:48:03.326294+00:00",
   "articles": [
+    {
+      "title": "PUBLIC CLOUDStorage News Ticker - 21 AugustAugust 21, 2026",
+      "url": "https://www.blocksandfiles.com/public-cloud/2026/08/21/storage-news-ticker-21-august/5290907",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:54.718367+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "PUBLIC CLOUDStorage News Ticker - 21 AugustAugust 21, 2026",
+      "url": "https://www.blocksandfiles.com/public-cloud/2026/08/21/storage-news-ticker-21-august/5290907",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:54.718373+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI/MLMicron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation labAugust 20, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:54.718379+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "AI/MLMicron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation labAugust 20, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:54.718387+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Local LLM Tools",
+      "url": "https://www.storagereview.com/best/local-llm-tools",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.111977+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "RAM, GPU & Storage for Agentic AI",
+      "url": "https://www.storagereview.com/best/agentic-ai-hardware",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.111981+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Portable SSDs",
+      "url": "https://www.storagereview.com/best/portable-ssds",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.111986+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
+      "url": "https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.542582+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
+      "url": "https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.542588+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
+      "url": "https://www.phoronix.com/news/Linux-7.3-EFI",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.542593+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
+      "url": "https://www.phoronix.com/news/Linux-7.3-EFI",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.542599+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware",
+      "url": "https://www.phoronix.com/news/Linux-7.3-DRM",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.542604+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEIBM Pushes System Design To Reach Ultra-Cold Temperatures For QuantumAugust 19, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927528+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEIBM Pushes System Design To Reach Ultra-Cold Temperatures For QuantumAugust 19, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927537+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTECerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4August 19, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927544+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTECerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4August 19, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927559+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEQuantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea ArchitectureAugust 18, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927569+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEQuantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea ArchitectureAugust 18, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927577+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTCisco Can Finally Sell Lots Of Supercomputers And Their NetworksAugust 17, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927584+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTCisco Can Finally Sell Lots Of Supercomputers And Their NetworksAugust 17, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-08-24T01:47:55.927591+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "2Q26 Vendor Reports and Key Takeaways",
+      "url": "https://cignal.ai/2026/08/2q26-vendor-reports-and-key-takeaways/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-08-24T01:48:00.583396+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "Lumentum promotes both VCSELs and indium phosphide lasers for co-packaged optics",
       "url": "https://gazettabyte.com/lumentum-promotes-both-vcsels-and-indium-phosphide-lasers-for-co-packaged-optics/",
