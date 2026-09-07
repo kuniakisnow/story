@@ -1,6 +1,186 @@
 {
-  "last_run": "2026-08-31T05:13:08.265095+00:00",
+  "last_run": "2026-09-07T04:15:16.284786+00:00",
   "articles": [
+    {
+      "title": "FLASHStorage news ticker - September 4September 4, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/09/04/storage-news-ticker-september-4/5294544",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.488403+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FLASHStorage news ticker - September 4September 4, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/09/04/storage-news-ticker-september-4/5294544",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.488410+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cohesity takes HCLTech to its Clean RoomSeptember 4, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/09/04/cohesity-takes-hcltech-to-its-clean-room/5294512",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.488415+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cohesity takes HCLTech to its Clean RoomSeptember 4, 2026",
+      "url": "https://www.blocksandfiles.com/data-protection/2026/09/04/cohesity-takes-hcltech-to-its-clean-room/5294512",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.488422+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Storage Arrays",
+      "url": "https://www.storagereview.com/best/storage-arrays",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.655550+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Best Laptops for Local AI",
+      "url": "https://www.storagereview.com/best/laptops-local-ai",
+      "source": "StorageReview",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:06.655567+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3-rc2 Released Following Another Busy Week",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.190428+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3-rc2 Released Following Another Busy Week",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc2-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.190436+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality",
+      "url": "https://www.phoronix.com/news/Shotcut-26.9-Beta",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.190442+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality",
+      "url": "https://www.phoronix.com/news/Shotcut-26.9-Beta",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.190449+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "NetBSD 9.5 Released To Cap Off The Series",
+      "url": "https://www.phoronix.com/news/NetBSD-9.5-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.190454+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face BuySeptember 3, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/09/03/nvidia-expands-its-open-source-ai-presence-with-129-billion-hugging-face-buy/5294352",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805326+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face BuySeptember 3, 2026",
+      "url": "https://www.nextplatform.com/ai/2026/09/03/nvidia-expands-its-open-source-ai-presence-with-129-billion-hugging-face-buy/5294352",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805335+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Optics Still Driving Marvell’s AI Business More Than Custom ChipsSeptember 2, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805341+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Optics Still Driving Marvell’s AI Business More Than Custom ChipsSeptember 2, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805355+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-PremSeptember 1, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805362+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-PremSeptember 1, 2026",
+      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805370+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI NetworksAugust 31, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805375+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI NetworksAugust 31, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-07T04:15:07.805382+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Molex’s product portfolio gets a fibre-attach boost",
+      "url": "https://gazettabyte.com/molexs-product-portfolio-gets-a-fibre-attach-boost/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-09-07T04:15:12.326374+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "FLASHStorage news ticker - 28 August 2026August 28, 2026",
       "url": "https://www.blocksandfiles.com/flash/2026/08/28/storage-news-ticker-28-august-2026/5293318",
