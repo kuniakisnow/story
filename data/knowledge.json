@@ -1,6 +1,177 @@
 {
-  "last_run": "2026-09-14T04:36:41.854959+00:00",
+  "last_run": "2026-09-21T04:36:59.648926+00:00",
   "articles": [
+    {
+      "title": "Storage News Ticker - 18 SeptemberSeptember 18, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/09/18/storage-news-ticker-18-september/5297507",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:46.496503+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Storage News Ticker - 18 SeptemberSeptember 18, 2026",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/09/18/storage-news-ticker-18-september/5297507",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:46.496507+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SK Hynix considering US Solidigm fabSeptember 18, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/09/18/sk-hynix-considering-us-solidigm-fab/5297475",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:46.496510+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SK Hynix considering US Solidigm fabSeptember 18, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/09/18/sk-hynix-considering-us-solidigm-fab/5297475",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:46.496515+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc4",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:47.583713+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc4",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:47.583718+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Important x86 Fixes Merged Ahead Of Linux 7.3-rc4",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:47.583721+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Important x86 Fixes Merged Ahead Of Linux 7.3-rc4",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:47.583726+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception",
+      "url": "https://www.phoronix.com/news/Gzip-1.15-Released",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:47.583728+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The GenAI Boom Accelerates And Transforms Ethernet SwitchingSeptember 20, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/09/20/the-genai-boom-accelerates-and-transforms-ethernet-switching/5297603",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225438+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The GenAI Boom Accelerates And Transforms Ethernet SwitchingSeptember 20, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/09/20/the-genai-boom-accelerates-and-transforms-ethernet-switching/5297603",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225444+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Bull Beats Out HPE For Next-Gen Lumi AI SupercomputerSeptember 17, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225449+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Bull Beats Out HPE For Next-Gen Lumi AI SupercomputerSeptember 17, 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225453+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEInfleqtion And Nvidia Reduce Physical-to-Logical Qubit Ratio in Quantum ComputersSeptember 16, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/09/16/infleqtion-and-nvidia-reduce-physical-to-logical-qubit-ratio-in-quantum-computers/5296887",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225456+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "COMPUTEInfleqtion And Nvidia Reduce Physical-to-Logical Qubit Ratio in Quantum ComputersSeptember 16, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/09/16/infleqtion-and-nvidia-reduce-physical-to-logical-qubit-ratio-in-quantum-computers/5296887",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225462+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "STOREHow To Smash The Memory Wall Plaguing High Performance SystemsSeptember 16, 2026",
+      "url": "https://www.nextplatform.com/store/2026/09/16/how-to-smash-the-memory-wall-plaguing-high-performance-systems/5296866",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225465+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "STOREHow To Smash The Memory Wall Plaguing High Performance SystemsSeptember 16, 2026",
+      "url": "https://www.nextplatform.com/store/2026/09/16/how-to-smash-the-memory-wall-plaguing-high-performance-systems/5296866",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-09-21T04:36:48.225470+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "TechTarget: IT Infrastructure",
+      "url": "https://www.techtarget.com/it-infrastructure/",
+      "source": "LightReading",
+      "category": "optical",
+      "fetched_at": "2026-09-21T04:36:49.964017+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CIOE 2026: Bigger, Better, and Faster",
+      "url": "https://cignal.ai/2026/09/cioe-2026-bigger-better-and-faster/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-09-21T04:36:53.491924+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "DATA PROTECTIONStorage news ticker - 11 September 2026September 11, 2026",
       "url": "https://www.blocksandfiles.com/data-protection/2026/09/11/storage-news-ticker-11-september-2026/5295886",
