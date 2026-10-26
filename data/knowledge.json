@@ -1,6 +1,242 @@
 {
-  "last_run": "2026-10-19T04:21:21.384343+00:00",
+  "last_run": "2026-10-26T04:24:43.233667+00:00",
   "articles": [
+    {
+      "title": "CXL™ Consortium",
+      "url": "https://www.snia.org/index%2Ephp/about/alliances/cxl",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309644+00:00",
+      "score": 30,
+      "matched_keywords": [
+        "CXL"
+      ]
+    },
+    {
+      "title": "WD knocks earnings out of the park - againOctober 23, 2026",
+      "url": "https://www.blocksandfiles.com/disk/2026/10/23/wd-knocks-earnings-out-of-the-park-again/5304988",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:33.859893+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "WD knocks earnings out of the park - againOctober 23, 2026",
+      "url": "https://www.blocksandfiles.com/disk/2026/10/23/wd-knocks-earnings-out-of-the-park-again/5304988",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:33.859903+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FLASHSK hynix shelves Solidigm IPO ideaOctober 23, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/10/23/sk-hynix-shelves-solidigm-ipo-idea/5304938",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:33.859908+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "FLASHSK hynix shelves Solidigm IPO ideaOctober 23, 2026",
+      "url": "https://www.blocksandfiles.com/flash/2026/10/23/sk-hynix-shelves-solidigm-ipo-idea/5304938",
+      "source": "Blocks & Files",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:33.859915+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Redox OS Landed Nice Performance Improvements In September",
+      "url": "https://www.phoronix.com/news/Redox-OS-September-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:34.761322+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Redox OS Landed Nice Performance Improvements In September",
+      "url": "https://www.phoronix.com/news/Redox-OS-September-2026",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:34.761334+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "New Wayland Protocol Proposed For VNC/Remote Software",
+      "url": "https://www.phoronix.com/news/Wayland-ext-transient-output",
+      "source": "Phoronix",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:34.761344+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTAPC Says Let There Be Light, With Raft Of Standards To Speed Up Photonics ManufacturingOctober 23, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414750+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTAPC Says Let There Be Light, With Raft Of Standards To Speed Up Photonics ManufacturingOctober 23, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414759+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "partner contentThree Physical Walls Are Hitting AI Datacenter Infrastructure at the Same Time - And the Compound Effects Are WorseOctober 23, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/10/23/partner-content-three-physical-walls-are-hitting-ai-datacenter-infrastructure-at-the-same-time-and-the-compound-effects-are-worse/5304697",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414766+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "partner contentThree Physical Walls Are Hitting AI Datacenter Infrastructure at the Same Time - And the Compound Effects Are WorseOctober 23, 2026",
+      "url": "https://www.nextplatform.com/compute/2026/10/23/partner-content-three-physical-walls-are-hitting-ai-datacenter-infrastructure-at-the-same-time-and-the-compound-effects-are-worse/5304697",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414774+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTHow Mixx Technologies Is Lighting The Way To Fully Optical Scale-up NetworksOctober 22, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/10/22/how-mixx-technologies-is-lighting-the-way-to-fully-optical-scale-up-networks/5304886",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414781+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONNECTHow Mixx Technologies Is Lighting The Way To Fully Optical Scale-up NetworksOctober 22, 2026",
+      "url": "https://www.nextplatform.com/connect/2026/10/22/how-mixx-technologies-is-lighting-the-way-to-fully-optical-scale-up-networks/5304886",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414788+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONTROLHuang Shrugs Off Protestors To Kick Off GTC Berlin With DSX Pods, RobotsOctober 21, 2026",
+      "url": "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414794+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "CONTROLHuang Shrugs Off Protestors To Kick Off GTC Berlin With DSX Pods, RobotsOctober 21, 2026",
+      "url": "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447",
+      "source": "The Next Platform",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:35.414801+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mission and Vision",
+      "url": "https://www.snia.org/index%2Ephp/about-snia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309604+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "History of SNIA",
+      "url": "https://www.snia.org/index%2Ephp/history-of-snia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309620+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.snia.org/index%2Ephp/board-directors",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309627+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Technical Council",
+      "url": "https://www.snia.org/index%2Ephp/board-directors?tab=tab1",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309633+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "SNIA Alliance Program",
+      "url": "https://www.snia.org/index%2Ephp/about/alliances",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309638+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Fibre Channel Industry Association (FCIA)",
+      "url": "https://www.snia.org/index%2Ephp/about/alliances/fcia",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309660+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Open Compute Project",
+      "url": "https://www.snia.org/index%2Ephp/about/alliances/ocp",
+      "source": "SNIA Blog",
+      "category": "storage",
+      "fetched_at": "2026-10-26T04:24:36.309667+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "ECOC 2026 Reflections – Part 2",
+      "url": "https://gazettabyte.com/ecoc-2026-reflections-part-2/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-10-26T04:24:39.315274+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "ECOC 2026 Reflections",
+      "url": "https://gazettabyte.com/ecoc-2026-reflections/",
+      "source": "Gazettabyte",
+      "category": "optical",
+      "fetched_at": "2026-10-26T04:24:39.315300+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Datacom Optical Front End Forecast Update",
+      "url": "https://cignal.ai/2026/10/update-to-cignal-ais-datacom-optical-front-end-forecast/",
+      "source": "Cignal AI",
+      "category": "optical",
+      "fetched_at": "2026-10-26T04:24:39.954032+00:00",
+      "score": 0,
+      "matched_keywords": []
+    },
     {
       "title": "FLASHSK hynix disaggregating SSD controller coresOctober 15, 2026",
       "url": "https://www.blocksandfiles.com/flash/2026/10/15/sk-hynix-disaggregating-ssd-controller-cores/5303240",
